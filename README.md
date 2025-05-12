@@ -16,7 +16,58 @@ Java Script bergantung kepada browser (navigator) yang memanggil halaman web yan
 
 
 <b> 1. Keperluan Java Script </b>
-<p align = "justify"> Untuk mempelajari pemprograman Java Script, </p>
+<p align = "justify"> Untuk mempelajari pemprograman Java Script, ada dua piranti yang di perlukan , yaitu :
+<ul>
+<li>Teks Editor</li>
+  <p align = "justify">Digunakan untuk menuliskan kode-kode Java Script, teks editor yang dapat digunakan antara lain notepad dan ultra edit .</p>
+  
+<li>Web Browser</li>
+  <p align = "justify">Digunakan untuk menampilkan halaman web yang mengandung kode-kode Java Script. Web browser yang digunakan harus mendukung Java Script. Browser yang dapat digunakan adalah internet explorer dan Netscape.</p>
+</ul>
+</p>
+
+<b> 2. Penulisan Java Script </b>
+<p align = "justify"> Kode Java Script dituliskan pada file HTML. Terdapat dua cara untuk menuliskan kode-kode Java Script agar dapat ditampilkan pada halaman HTML, yaitu :
+
+<ol type = 'a'>
+<li>Java Script ditulis pada file yang sama </li>
+<p align = "justify"> Untuk penulisan dengan cara ini, perintah yang di gunakan adalah <SCRIPT LANGUANGE = "JavaScript"> program java script disini </SCRIPT>
+Perintah tersebut biasanya diletakkan diantara Tag <BODY>.....</BODY>
+Contoh Penulisan :
+<br>
+<HTML>
+<HEAD><TITLE>.......</TITLE>
+  </HEAD>
+  <BODY>
+  <SCRIPT LANGUANGE ="Javascript">
+  kode javascript disini
+  </SCRIPT>
+  kode HTML disini
+    </BODY>
+    </HTML>
+  </br>
+<li>Java Script ditulis pada file yang terpisah </li>
+<p>Kode Javascript bisa juga kita buata dalam file terpisah dengan tujuan agar dokumen HTML isinya tidak terlalu panjang. Atribut yang digunakan adalah </p>
+<SCRIPT SRC = "namafile.js">...</SCRIPT>
+
+  Diantara tag <SCRIPT........? dan < SCRIPT> tidak diperlukan kode Javascriptnya karena sudah dibuat dalam file terpisah. File yang mengandung kode Javascript berekstensi.js
+  
+<b> 3. Program Pertama Javascript </b>
+Pada bagian ini kita akan membuat program dengan menggunakan Javascript. Program ini akan menampilkan teks "Belajar Pemprograman Javascript"
+
+<HTML>
+  <BODY> 
+  <SCRIPT languange = " Javascript">
+  <!--
+    document.wite("Belajar Pemprograman Javascript!");
+    //-->
+  </SCRIPT>
+  </BODY>
+</HTML>
+  
+</ol>
+
+
   
 Bisa cek Tag-Tag nya di repositori ya yang mau belajar...🤞
 
