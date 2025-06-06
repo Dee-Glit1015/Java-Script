@@ -64,6 +64,26 @@ Pada bagian ini kita akan membuat program dengan menggunakan Javascript. Program
   </SCRIPT>
   </BODY>
 </HTML>
+
+<HTML>
+  <HEAD>
+    <TITLE> Belajar Javascript Yuuuuu </TITLE>
+      </HEAD>
+    <BODY BGCOLOR = "gray">
+      <SCRIPT language ="Javascript">
+        <!--
+          document.writeln("<PRE>");
+          document.write("<B><FONT SIZE=5>");
+          document.writeln("SELAMAT DATANG DI JAVASCRIPT");
+          document.write("<I>");
+          document.writeln ("Program ini merupakan contoh sederhana menampilakan Teks!");
+          document.write("</I>");
+          document.writeln("Dengan Javascript !!!!!!!!");//-->
+      </SCRIPT>
+        </BODY>
+</HTML>
+
+
   
 </ol>
 
