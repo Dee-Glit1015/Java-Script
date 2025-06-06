@@ -83,6 +83,10 @@ Pada bagian ini kita akan membuat program dengan menggunakan Javascript. Program
         </BODY>
 </HTML>
 
+        
+ <p align = "Justify"> Objek document mempunyai dua metode untuk menuliskan teks, yaitu write dan writeln. Metode write digunakan untuk menuliskan teks tanpa ganti baris, sedangkan metode witeln digunakan untuk menuliskan teks dengan ganti baris.
+ Berikut diberikan caontoh program Javascript yang diltekkan di file lain dan dipanggil melaluo suatu file HTML. </p>
+ 
 
   
 </ol>
