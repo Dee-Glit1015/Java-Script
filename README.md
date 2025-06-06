@@ -88,8 +88,23 @@ Pada bagian ini kita akan membuat program dengan menggunakan Javascript. Program
         
  <p align = "Justify"> Objek document mempunyai dua metode untuk menuliskan teks, yaitu write dan writeln. Metode write digunakan untuk menuliskan teks tanpa ganti baris, sedangkan metode witeln digunakan untuk menuliskan teks dengan ganti baris.
  Berikut diberikan caontoh program Javascript yang diltekkan di file lain dan dipanggil melaluo suatu file HTML. </p>
- 
 
+ <b> 4.Komentar </b>
+  <p align = "Justify"> Sama seperti bahasa pemprograman lain. Javascript juga menyediakan fasilitas untuk menuliskan komentar, komentar ini berguna bila nantinya anda atau orang lain membaca program.
+  Pemberian komentar dalam Javascript dapat dilakukan dengan dua cara yatu dengan menulsikan komentar setelah tanda garis miring dua kali, contoh :
+  //ini komentar
+    atau
+    /*ini juga komentar*/
+  </p>
+  
+<br> <b>*Variabel JavaScript *</b></br> 
+<b> 2.1 Variabel Dalam Javascript</b>
+<p align = "justify" >Variabel adalah empat dimana kita menyimpan nilai-nilai atau informasi-informasi pada Javascript. Variabel yang di deklarasikan dapat di isi dengan nilai apa saja. Dalam Javascript pendeklarasikan sebuah variabel sidatnya opsional, artinya anda boleh mendeklarasikan atau tidak hal tersebut tidak menjai masalah. Jika anda memberi nilai pada variabel, maka Javascript dianggap bahwa anda telah mendeklarasikan variabel tersebut.
+Aturan penamaan variabel :
+<li> Harus diawaki dengan karakter ( huruf atau baris bawah) </li>
+<li> Tidak boleh menggunakan spasi </li>
+<li> Huruf Kapital dan kecil memilki arti yang berbeda </li>
+<li> Tidak boleh menggunakan kata-kata yang merupakan perintah dalam Javascript </li>
   
 </ol>
 
