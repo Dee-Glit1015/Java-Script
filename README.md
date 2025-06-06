@@ -97,15 +97,16 @@ Pada bagian ini kita akan membuat program dengan menggunakan Javascript. Program
     /*ini juga komentar*/
   </p>
   
-<br> <b>*Variabel JavaScript *</b></br> 
-<b> 2.1 Variabel Dalam Javascript</b>
+<br><b> 2.1 Variabel Dalam Javascript</b></br>
 <p align = "justify" >Variabel adalah empat dimana kita menyimpan nilai-nilai atau informasi-informasi pada Javascript. Variabel yang di deklarasikan dapat di isi dengan nilai apa saja. Dalam Javascript pendeklarasikan sebuah variabel sidatnya opsional, artinya anda boleh mendeklarasikan atau tidak hal tersebut tidak menjai masalah. Jika anda memberi nilai pada variabel, maka Javascript dianggap bahwa anda telah mendeklarasikan variabel tersebut.
 Aturan penamaan variabel :
+  <ul>
 <li> Harus diawaki dengan karakter ( huruf atau baris bawah) </li>
 <li> Tidak boleh menggunakan spasi </li>
 <li> Huruf Kapital dan kecil memilki arti yang berbeda </li>
-<li> Tidak boleh menggunakan kata-kata yang merupakan perintah dalam Javascript </li>
-  
+<li> Tidak boleh menggunakan kata-kata yang merupakan perintah dalam Javascript 
+</ul>
+
 </ol>
 
 
