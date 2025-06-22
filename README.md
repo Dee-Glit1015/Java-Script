@@ -15,7 +15,7 @@ Javascript adalah bahasa yang terbentuk kumpulan skrip yang pada fungsi nya berj
 Java Script bergantung kepada browser (navigator) yang memanggil halaman web yang berisi skrip dari Javascript dan tentu saja terselip di dalam dokumen HTML Javascript juga tidak memerlukan kompilator atau penterjemah khusus untuk menjalankan nya (pada kenyataan nya kompilator Javascript sendiri sudah termasuk di dakan browser tersebut). Lain halsnya dengan bahasa "Java" (dengan nama Java Script selalu di banding bandingkan) yang memerlukan kompilator khusus untuk menterjemahkan nya di sisi user/klien.</p>
 
 
-<b> 1. Keperluan Java Script </b>
+<h1> 1. Keperluan Java Script </h1>
 <p align = "justify"> Untuk mempelajari pemprograman Java Script, ada dua piranti yang di perlukan , yaitu :
 <ul>
 <li>Teks Editor</li>
@@ -96,7 +96,8 @@ Pada bagian ini kita akan membuat program dengan menggunakan Javascript. Program
     atau
     /*ini juga komentar*/
   </p>
-  
+
+<h1> 2. Variabel Java Script </h1>
 <br><b> 2.1 Variabel Dalam Javascript</b></br>
 <p align = "justify" >Variabel adalah empat dimana kita menyimpan nilai-nilai atau informasi-informasi pada Javascript. Variabel yang di deklarasikan dapat di isi dengan nilai apa saja. Dalam Javascript pendeklarasikan sebuah variabel sidatnya opsional, artinya anda boleh mendeklarasikan atau tidak hal tersebut tidak menjai masalah. Jika anda memberi nilai pada variabel, maka Javascript dianggap bahwa anda telah mendeklarasikan variabel tersebut.
 Aturan penamaan variabel :
@@ -104,16 +105,33 @@ Aturan penamaan variabel :
 <li> Harus diawaki dengan karakter ( huruf atau baris bawah) </li>
 <li> Tidak boleh menggunakan spasi </li>
 <li> Huruf Kapital dan kecil memilki arti yang berbeda </li>
-<li> Tidak boleh menggunakan kata-kata yang merupakan perintah dalam Javascript 
+<li> Tidak boleh menggunakan kata-kata yang merupakan perintah dalam Javascript</li>
 </ul>
+<br> <ins>Deklarasi Variabel</ins></br> 
+<b><ins>Var</ins> nama_variabel = nilai</b>
+            Atau
+<b>Nama_Variabel = nilai</b>
+<br><ins> Contoh : </ins></br>
+var nama = "Zaskia Mecca"
+<br>var X  = 1998 ;</br>
+var Y ;
 
-</ol>
+Nama =" Bunga Lestari"
+<br>X = 1990;</br>
+Y = 08170223513
+
+
+
+
+
+
 
 
   
-Bisa cek Tag-Tag nya di repositori ya yang mau belajar...🤞
-
-Dee-Glit1015
 
   </body>
+  
+Bisa cek Tag-Tag nya di repositori ya yang mau belajar...🤞
+Dee-Glit1015
+
 </html>
