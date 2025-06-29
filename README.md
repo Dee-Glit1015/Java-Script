@@ -170,8 +170,8 @@ Operator pada Javascript terbagi menajadi enam, yaitu :
 <b> a. Operator Aritmatika </b>
 <p align = "Justify"> Digunakan untuk operan numerik. Ada dua macam operator aritmatik, yaitu operator numerik tunggal dan operator aritmatik biner. Perbedaan kedua operator terletak pada jumlah operan yang harus di operasikan.</p>
 
-![image](https://github.com/user-attachments/assets/3537d588-cf4f-4d5c-9a1b-2dbf21995625)
-![image](https://github.com/user-attachments/assets/d18ee0ba-8ea7-42e6-9703-2e2dc28e1f89)
+![image](https://github.com/user-attachments/assets/a7981f14-1984-4ab7-9782-3832d1070f61)
+
 
 <b> a. Operator Pemberian Nilai </b>
 <p align = "Justify"> Digunakan untuk memberikan nilai ke suatu operan atau mengubah nilai suatu operan.</p>
@@ -180,6 +180,7 @@ Operator pada Javascript terbagi menajadi enam, yaitu :
 
 <b> c. Operator Manipulasi Bit </b>
 <p align = "Justify"> Operasi ini berhubungan dengan permanipulasian bit pada operan bertipe bilangan bulat. </p>
+
 ![image](https://github.com/user-attachments/assets/bf7ff675-81a4-4094-8bbf-dca8887aff45)
 ![image](https://github.com/user-attachments/assets/4b6a6846-8be6-4477-81d0-e52274d0c48c)
 
@@ -189,6 +190,7 @@ Operator pada Javascript terbagi menajadi enam, yaitu :
 
 <b> e. Operator Logika </b>
 <p align = "Justify"> Digunakan untuk mengoperasikan operan yang bertipe boolean.. </p>
+
 ![image](https://github.com/user-attachments/assets/9272e54b-c927-45b0-94c6-bf2534ca8501)
 Contoh :
 var A = true ;
