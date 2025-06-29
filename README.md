@@ -186,6 +186,7 @@ Operator pada Javascript terbagi menajadi enam, yaitu :
 
 <b> d. Operator Pembanding </b>
 <p align = "Justify"> Digunakan untuk membandingkan dua buah operan. Operan yang dikenal operator ini dapat bertipe string, numerik, maupun ekspresi lain. </p>
+
 ![image](https://github.com/user-attachments/assets/d2e5512b-e69f-4c84-8697-d1af8631bab0)
 
 <b> e. Operator Logika </b>
