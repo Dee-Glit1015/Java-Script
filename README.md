@@ -99,7 +99,7 @@ Pada bagian ini kita akan membuat program dengan menggunakan Javascript. Program
 
 <h1> 2. Variabel Java Script </h1>
 <br><b> 2.1 Variabel Dalam Javascript</b></br>
-<p align = "justify" >Variabel adalah empat dimana kita menyimpan nilai-nilai atau informasi-informasi pada Javascript. Variabel yang di deklarasikan dapat di isi dengan nilai apa saja. Dalam Javascript pendeklarasikan sebuah variabel sidatnya opsional, artinya anda boleh mendeklarasikan atau tidak hal tersebut tidak menjai masalah. Jika anda memberi nilai pada variabel, maka Javascript dianggap bahwa anda telah mendeklarasikan variabel tersebut.
+<p align = "justify" > Variabel adalah empat dimana kita menyimpan nilai-nilai atau informasi-informasi pada Javascript. Variabel yang di deklarasikan dapat di isi dengan nilai apa saja. Dalam Javascript pendeklarasikan sebuah variabel sidatnya opsional, artinya anda boleh mendeklarasikan atau tidak hal tersebut tidak menjai masalah. Jika anda memberi nilai pada variabel, maka Javascript dianggap bahwa anda telah mendeklarasikan variabel tersebut.</p>
 Aturan penamaan variabel :
   <ul>
 <li> Harus diawaki dengan karakter ( huruf atau baris bawah) </li>
@@ -120,6 +120,88 @@ Nama =" Bunga Lestari"
 <br>X = 1990;</br>
 Y = 08170223513
 
+<br><b> 2.2 Tipe Data </b></br>
+<p align = "Justify"> Tidak seperti bahasa peprograman lain nya, Javascript tidak memiliki tipe data secara explisit. Hal ini dapat dilihat dari beberapa contoh variabel diatas. Anda mendeklarasikan variabel tapi tidak menentukan tipenya.
+Meskipun JavaScript tidak memeiliki tipe data secara explisit. Javascript mempunyai tipe data implisit. Terdapat empat macam tipe data implisit yang dimilki oleh JavaScript yaitu : </p>
+<ul>
+<li> Numerik, seperti :0222532531, 1000,45,3,146789 dsb </li>
+<li> String,seperti: "Hallo","April","Jl.Setiabudi No.17A","Cece Kirani" dsb </li>
+<li> Boolean, berniali true atau false </li>
+<li> Null, variabel yang tidak diinisialisasi </li>
+</ul>
+
+<br><b> 2.3 Numerik </b></br>
+<p align = "Justify"> Pada dsarnya Javascript hanya mengenal dua macam tipe numerik, yaitu bilangan bulat(integer) dam nilangan pecahan(real/float). Untuk bilangan bulat, kita dapat merepresentasikan dengan basis desimal, oktal atau heksadesimal. </p>
+
+Contoh :
+  var A = 100
+  var B = 0x2F;
+untuk pendeklarasian tipe bilangan real, dapat menggunakan tanda titik atau notasi ilmiah ( notasi E).
+Contoh :
+  var a = 3,14533567;
+  var b = 1.23456L'+3;
+
+<br><b> 2.4 Tipe String </b></br>
+<p align = "Justify"> Untuk mendeklarasikan tipe string dapat dilakukan dengan cara menuliskan string diantara tanda petik tunggal (') atau tanda petik ganda ('') </p>
+Contoh :
+  var str ='Contoh deklarasi string'
+  var strl =" cara ini juga bisa untuk menulis string";
+
+<br><b> 2.5 Tipe Boolean </b></br>
+<p align = "Justify"> Tipe Boolean hanya mempunyai nilai True dan False. Tipe ini biasanya digunakan untuk mengecek suatu kondisi atau keadaan. </p>
+Contoh :
+  var X = (Y>90);
+contoh diatas menunjukan bahwa jika Y lebih besar dari 90 maka X akan bernilai True.
+
+<br><b> 2.6 Tipe Null </b></br>
+<p align = "Justify"> Tipe Null digunakan untuk merepresentasikan variabel yang tidak nilai awal (inisalisai). </p>
+
+<br><b> 2.7 Operator </b></br>
+Operator pada Javascript terbagi menajadi enam, yaitu :
+<ul>
+<li> Aritmatika </li>
+<li> Pemberian nilai (Assign) </li>
+<li> Pemanipulasian bit (bitwise) </li>
+<li> Pembanding </li>
+<li> Logika </li>
+<li> String </li>
+</ul>
+
+<b> a. Operator Aritmatika </b>
+<p align = "Justify"> Digunakan untuk operan numerik. Ada dua macam operator aritmatik, yaitu operator numerik tunggal dan operator aritmatik biner. Perbedaan kedua operator terletak pada jumlah operan yang harus di operasikan.</p>
+
+![image](https://github.com/user-attachments/assets/3537d588-cf4f-4d5c-9a1b-2dbf21995625)
+![image](https://github.com/user-attachments/assets/d18ee0ba-8ea7-42e6-9703-2e2dc28e1f89)
+
+<b> a. Operator Pemberian Nilai </b>
+<p align = "Justify"> Digunakan untuk memberikan nilai ke suatu operan atau mengubah nilai suatu operan.</p>
+
+![image](https://github.com/user-attachments/assets/b5cf11ad-4bee-4478-892a-43184ca7ad37)
+
+<b> c. Operator Manipulasi Bit </b>
+<p align = "Justify"> Operasi ini berhubungan dengan permanipulasian bit pada operan bertipe bilangan bulat. </p>
+![image](https://github.com/user-attachments/assets/bf7ff675-81a4-4094-8bbf-dca8887aff45)
+![image](https://github.com/user-attachments/assets/4b6a6846-8be6-4477-81d0-e52274d0c48c)
+
+<b> d. Operator Pembanding </b>
+<p align = "Justify"> Digunakan untuk membandingkan dua buah operan. Operan yang dikenal operator ini dapat bertipe string, numerik, maupun ekspresi lain. </p>
+![image](https://github.com/user-attachments/assets/d2e5512b-e69f-4c84-8697-d1af8631bab0)
+
+<b> e. Operator Logika </b>
+<p align = "Justify"> Digunakan untuk mengoperasikan operan yang bertipe boolean.. </p>
+![image](https://github.com/user-attachments/assets/9272e54b-c927-45b0-94c6-bf2534ca8501)
+Contoh :
+var A = true ;
+var B = false;
+var C = A&&B;//menghasilkan false
+var D = A||&&B;//false
+var E = !A;//false
+
+<b> f. Operator String </b>
+<p align = "Justify"> Selain operator pembanding, operator string pada Javascript juga mengenal satu operator lagi bernama PENGGABUNGAN. Operator ini digunakan untuk menggabungkan beberapa string menjadi sebuag string yang lebih panjang. </p>
+Contoh :
+nama = "Java" + "Script";
+akan menghasilkan "Java Script pada variabel nama
 
 
 
