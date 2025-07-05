@@ -206,10 +206,8 @@ Contoh :
 nama = "Java" + "Script";
 akan menghasilkan "Java Script pada variabel nama
 
-
-
-
-
+![image](https://github.com/user-attachments/assets/87e3aadd-06d0-4c10-9e37-4f8515609026)
+![image](https://github.com/user-attachments/assets/251c6411-1bd3-408e-9bae-463609918512)
 
 
   
