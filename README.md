@@ -206,11 +206,10 @@ Contoh :
 nama = "Java" + "Script";
 akan menghasilkan "Java Script pada variabel nama
 
-![image](https://github.com/user-attachments/assets/87e3aadd-06d0-4c10-9e37-4f8515609026)
-![image](https://github.com/user-attachments/assets/251c6411-1bd3-408e-9bae-463609918512)
+<h2 style="background-color: Yellow;">Contoh Program Javascript</h2>
 
-<h2 style="background-color: Grey;">Contoh Program Javascript</h2>
 <img width="768" height="487" alt="image" src="https://github.com/user-attachments/assets/85ea60cc-6d9e-44a5-b35b-c4b1b3d49ec5" />
+
 <img width="316" height="202" alt="image" src="https://github.com/user-attachments/assets/ce0f8efe-0d1b-4e3e-9ae3-ecc385fce7da" />
 
 
