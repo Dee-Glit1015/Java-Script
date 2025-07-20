@@ -212,8 +212,10 @@ akan menghasilkan "Java Script pada variabel nama
 
 <img width="316" height="202" alt="image" src="https://github.com/user-attachments/assets/ce0f8efe-0d1b-4e3e-9ae3-ecc385fce7da" />
 
+<br><b> 2.8 Memasukkan Data </b></br>
+Untuk memasukkan data dari keyboard dapat dilakukan dengan menggunakan perintah input.
 
-
+<h2 style="background-color: Yellow;">Contoh Program Javascript</h2>
   
 
   </body>
