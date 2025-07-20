@@ -216,6 +216,15 @@ akan menghasilkan "Java Script pada variabel nama
 Untuk memasukkan data dari keyboard dapat dilakukan dengan menggunakan perintah input.
 
 <h2 style="background-color: Yellow;">Contoh Program Javascript</h2>
+
+<img width="662" height="568" alt="image" src="https://github.com/user-attachments/assets/030aa7f3-5e41-42eb-ac30-faaab74c2045" />
+
+<img width="512" height="286" alt="image" src="https://github.com/user-attachments/assets/b15b113f-ab05-417f-bd9b-3f3a266ba9d9" />
+
+<img width="610" height="208" alt="image" src="https://github.com/user-attachments/assets/a3cfc9e1-d2b7-420c-be29-52b6290b9212" />
+
+
+
   
 
   </body>
