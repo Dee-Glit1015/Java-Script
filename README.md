@@ -236,6 +236,19 @@ Untuk memasukkan data dari keyboard dapat dilakukan dengan menggunakan perintah 
 
 <h2 style="background-color: Yellow;">Contoh Program Javascript</h2>
 
+<img width="623" height="499" alt="image" src="https://github.com/user-attachments/assets/85698046-1067-4aaf-a2c8-e309944eb719" /> 
+
+<img width="728" height="445" alt="image" src="https://github.com/user-attachments/assets/b4a30936-fe36-4dec-9fa9-87723679ae83" /> 
+
+<br><b> 3.3 Objek Radio </b></br>
+<p align = "justify" > Objek radio adalah komponen untuk melakukan suatu pemilihan data. Karena selalu berupa Array, untuk mengakses satu tombol radio digunakan radio [indeks]. Disamping itu objek radio juga mempunyai nilai True jika dipilih dan False jika tidak. Untuk suatu objek radio menggunakan properti Checked.  </p>
+
+<h2 style="background-color: Yellow;">Contoh Program Javascript</h2>
+
+
+
+
+
 
 
 
