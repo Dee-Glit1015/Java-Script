@@ -1,0 +1,41 @@
+<html>
+    <head>
+        <title>
+            Latihan Dengan Objek Checkbox
+        </title>
+    </head>
+    <body>
+        <script language = "JavaScript">
+            <!--
+            function checkbox(form) 
+            {
+                var ket = "";
+                var ket1 = "";
+                if (form.bola.checked == true)
+            {
+                ket = "Nonton Bola";
+            }
+                if (form.tv.checked == true)
+            {
+                ket1 = "Nonton TV";
+            }
+                alert ('Hobby anda' + ket + ''+ ket1);
+            
+            }
+            //-->
+            </script>
+            <form>
+                <H1> Memasukkan Data Dengan Objek Checkbox <H/1>
+                <hr>
+                <p> Hobby Anda :</p>
+                  <p> <input type="checkbox" value="on" name= "Bola"> Nonton Bola</p>
+                  <p> <input type="checkbox" value="on" name="TV"> Nonton TV</p>
+                    </p>
+                <hr>
+                <p>
+                    <input type="button" value= "Confirm"
+                    onclick="checkbox(this.form)">
+                    <input type="reset" value = "Reset"> </p>
+            </form>
+    </body>
+</html>
