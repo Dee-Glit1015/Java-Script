@@ -249,6 +249,32 @@ Untuk memasukkan data dari keyboard dapat dilakukan dengan menggunakan perintah 
 
 <img width="718" height="401" alt="image" src="https://github.com/user-attachments/assets/afe0af2b-4cdf-4aec-9f26-552662198a38" />
 
+<br><b> 3.4 Objek Checkbox </b></br>
+<p align = "justify" > Objek checkbox menyimpan informasi tentang elemen form yang berupa kotak cek .Penggunaan nya hampir sama seperti objek radio.  </p>
+
+<h2 style="background-color: Yellow;">Contoh Program Javascript</h2> 
+<img width="812" height="638" alt="image" src="https://github.com/user-attachments/assets/f2c682ac-2640-4c2c-aac4-c3e70a5a2293" />
+
+<img width="598" height="215" alt="image" src="https://github.com/user-attachments/assets/445e6d6a-7a62-491b-a54e-0d78f3fd34a1" />
+
+<img width="634" height="375" alt="image" src="https://github.com/user-attachments/assets/893aca04-e23e-4631-8fff-6d5bb1f059a3" />
+
+<br><b> 3.5 Objek Text Area </b></br>
+<p align = "justify" > Objek textarea menyimpan informasi tentang elemen form yang berupa kotak teksdengan banyak baris.  </p>
+
+<h2 style="background-color: Yellow;">Contoh Program Javascript</h2> 
+
+<img width="674" height="493" alt="image" src="https://github.com/user-attachments/assets/392eb490-5ed3-41c2-b74e-5d591cc0ce29" />
+
+<img width="625" height="399" alt="image" src="https://github.com/user-attachments/assets/f7e3d215-4e1e-434a-a97f-fbb33fdb157e" />
+
+
+
+
+
+
+
+
 
   
 
