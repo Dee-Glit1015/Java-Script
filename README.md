@@ -268,6 +268,17 @@ Untuk memasukkan data dari keyboard dapat dilakukan dengan menggunakan perintah 
 
 <img width="625" height="399" alt="image" src="https://github.com/user-attachments/assets/f7e3d215-4e1e-434a-a97f-fbb33fdb157e" />
 
+<br><b> 3.6 Objek Select </b></br>
+<p align = "justify" > Object Select menyimpan informasi tentang elemen form yang berupa kotak daftar. Objek Select berguna apabila didalam form terdapat banayak pilihan yang telah mempunyai nilai tertentu.  </p>
+
+<h2 style="background-color: Yellow;">Contoh Program Javascript</h2> 
+<img width="694" height="507" alt="image" src="https://github.com/user-attachments/assets/4a1c9e0c-b623-4f3a-8700-9a470e7cecd3" />
+<img width="845" height="216" alt="image" src="https://github.com/user-attachments/assets/a3b5c75d-8909-4ec0-8d03-a8923033137f" />
+
+<img width="429" height="283" alt="image" src="https://github.com/user-attachments/assets/10674b09-2aa8-4b76-b61c-313771133199" />
+
+
+
 
 
 
