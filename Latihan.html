@@ -1,0 +1,55 @@
+<html>
+    <body bgcolor="#ff4fdd">
+        <head>
+        <script language="JavaScript" src="isi2.js"></script>
+        </head>
+        <script language="JavaScript">
+        <!-- 
+            function tekan ()
+            {
+                var nimstr = (document.fform.nim.value);
+                var namastr = (document.fform.nama.value);
+                var jnskelaminstr = (document.fform.jnskelamin.value);
+                var agamastr = (document.fform.agama.value);
+                document.fform.onim.value =nimstr;
+                document.fform.onama.value = namastr;
+                document.fform.ojnskelamin.value = jnskelaminstr;
+                document.fform.oagama.value = agamastr;
+                
+            }
+            function ulangForm() 
+            {
+            document.getElementById("formMahasiswa").reset();
+            }
+        -->
+       </script>
+            <form name = "fform">
+
+                <pre>
+                Nim             : <input type = "text" size = "25" name = "nim">
+                Nama Mahasiswa  : <input type = "text" size = "25" name = "nama">
+                Jenis Kelamin   : <select name = "jnskelamin" size="1">
+                <option value="Laki-Laki">Laki-Laki</option>
+                <option value="Perempuan">Perempuan</option>
+                </select>
+                Agama           : <select name = "agama" size="1">
+                <option value="Katolik">Katolik</option>    
+                <option value="Kristen">Kristen</option>
+                <option value="Islam">Islam</option>
+                <option value="Hindu">Hindu</option>
+                <option value="Budha">Budha</option>            
+                <option value="Konghucu">Konghucu</option>
+                </select>
+                </pre>
+                <br>
+                <p><input type="button" value="kirim"onclick="tekan()"></p>
+                <input type = "reset" value = "Ulang">
+                <h3>Data Mahasiswa Institut Teknologi Nasional Malang</h3>
+                <pre>
+                Nim             : <input type = "text" size = "25" name = "onim">
+                Nama Mahasiswa  : <input type = "text" size = "25" name = "onama">
+                Jenis Kelamin   : <input type = "text" name = "ojnskelamin " size="25">
+                Agama           : <input type = "text" name = "oagama" size="25">
+             </form>
+    </body>
+</html>
