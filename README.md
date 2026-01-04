@@ -313,6 +313,18 @@ else
   //bila kondisi2 tidak terpenuhi
 }
 
+<h2 style="background-color: Yellow;">Contoh Program Javascript</h2> 
+
+<img width="506" height="484" alt="image" src="https://github.com/user-attachments/assets/7e39a1a1-d029-453c-bc7b-c52371b8d07f" />
+<img width="601" height="290" alt="image" src="https://github.com/user-attachments/assets/7778b0e7-d35d-4acc-8355-7edcd30484b5" />
+
+*HASIL (Note : Untuk Script Masih ada Yang Error)*
+
+
+
+
+
+
 
 
 
