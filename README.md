@@ -277,6 +277,43 @@ Untuk memasukkan data dari keyboard dapat dilakukan dengan menggunakan perintah 
 
 <img width="455" height="285" alt="image" src="https://github.com/user-attachments/assets/fd5b879a-d69d-4f00-ab73-ab43c38d1d9a" />
 
+<h1> 4. PERCABANGAN </h1>
+<br><b> 4.1 Percabangan </b></br>
+<p align = "justify" > Untuk membuat suatu halaman yang dinamis dan interaktif, perancang halaman WEb membutuhkan perintah-perintah yang dapat mengatur aliran dari informasi. Berdasarkan hasil komputasi yang telash dilakukan, Kavascript akan membuat keputusan jalur mana yang akan di eksekusi. Pada dasarnya dalam Javascript terdapat dua macam pernyataan percabangan yaitu if, else dan switch .  </p>
+
+<br><b> 4.2 If..Else </b></br>
+<p align = "justify" > Pernyataan ini digunakan untuk menguji sebuah kondisi dan kemudian mengeksekusi pernyataan tertentu bila kondisi tersebut terpenuhi, dan mengekseskusi pernyataan lain bila kondisi tersebut tidak terpenuhi.</p>
+if (kondisi)
+{
+  //pernyataan1 dieksekusi
+  //bila kondisi terpenuhi
+}
+else
+{
+  //pernyataan2 dieksekusi
+  //bila kondisi tidak terpenuhi
+}
+*Kondisi adalah ekspresi Java Script yang mana hasil evaluasinya memilki nikai Boolean *true* atau *false*
+
+Untuk Kasusya yang melibatkan lebih banyak kondisi, maka kita dapat meltekkan pernyataan if lain setelah else
+
+if(kondisi)
+{
+  //pernyataan1 dieksekusi
+  //bila kondisi terpenuhi
+}
+else if (kondisi2)
+{
+  //pernyataan2 dieksekusi
+  //bila kondisi1 tidak terpenuhi
+}
+else
+{
+  //pernyataan3 dieksekusi
+  //bila kondisi2 tidak terpenuhi
+}
+
+
 
 
 
