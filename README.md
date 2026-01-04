@@ -318,7 +318,7 @@ else
 <img width="506" height="484" alt="image" src="https://github.com/user-attachments/assets/7e39a1a1-d029-453c-bc7b-c52371b8d07f" />
 <img width="601" height="290" alt="image" src="https://github.com/user-attachments/assets/7778b0e7-d35d-4acc-8355-7edcd30484b5" />
 
-*HASIL* ( Don't Forger Configuration Launch.Json)
+*HASIL* ( Don't Forget Configuration Launch.Json)
 
 <img width="936" height="273" alt="image" src="https://github.com/user-attachments/assets/b49b9be7-8426-405d-a1ae-d4ab09ff7245" />
 <img width="944" height="273" alt="image" src="https://github.com/user-attachments/assets/3d4a17de-f281-4bda-9087-2a647abec485" />
