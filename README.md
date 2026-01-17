@@ -322,7 +322,32 @@ else
 
 <img width="936" height="273" alt="image" src="https://github.com/user-attachments/assets/b49b9be7-8426-405d-a1ae-d4ab09ff7245" />
 <img width="944" height="273" alt="image" src="https://github.com/user-attachments/assets/3d4a17de-f281-4bda-9087-2a647abec485" />
-<img width="945" height="261" alt="image" src="https://github.com/user-attachments/assets/f5c8ebb3-4692-4e4e-a856-2d85f09889d1" />
+<img width="945" height="261" alt="image" src="https://github.com/user-attachments/assets/f5c8ebb3-4692-4e4e-a856-2d85f09889d1" 
+
+
+<br><b> 4.3 Contoh Kasus </b></br>
+Perusahaan Travel " Bintang Abadi" mempunyai dengan tujuan :
+<img width="241" height="80" alt="image" src="https://github.com/user-attachments/assets/43735a50-44b8-4221-bac8-a2f8e7e40439" />
+Apabila seorang pemesan sudah menjadi anggota.member Travel Bintang Abadi maka akan mendapatkan diskon 10%.
+<img width="266" height="61" alt="image" src="https://github.com/user-attachments/assets/489d33ec-4fe5-45a8-a770-c1c052012228" />
+Buat Program dengan menggunakan Javascript untuk menyelesaikan masalah tersebut. Dengan ketentun sebagai berikut :
+<img width="577" height="84" alt="image" src="https://github.com/user-attachments/assets/b720c58f-f07d-4f1e-830e-9f0ded3c068b" />
+<img width="730" height="502" alt="image" src="https://github.com/user-attachments/assets/014a5ee5-d79a-4c1c-b02f-05ce752939e7" />
+<img width="629" height="390" alt="image" src="https://github.com/user-attachments/assets/0b9161f0-b3a4-48af-837d-4e681b13f3a0" />
+<img width="739" height="273" alt="image" src="https://github.com/user-attachments/assets/cdbbbf24-8663-4650-9cae-bd35d9ac65a4" />
+
+<H2> == HASIL == </H2>
+<img width="955" height="220" alt="image" src="https://github.com/user-attachments/assets/9fa96198-3232-4c8c-a654-5d83be351eca" />
+
+
+
+
+
+
+
+
+
+  
 
 
 
