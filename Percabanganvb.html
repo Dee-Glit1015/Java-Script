@@ -1,0 +1,41 @@
+<HTML>
+<HEAD><TITLE>Percabangan IF-ELSE </TITLE></HEAD>
+<BODY>
+<SCRIPT languange ="JavaScript">
+<!--
+    
+function tanyabilangan  ()
+{
+    var bil = parseFloat(document.fform.bilangan.value);
+    var jenis = "";
+    if (isNaN(bil))
+    {
+        alert("Anda belum memasukan Bilangan");
+    }
+        else
+    {
+        if (bil > 0)
+        {
+            jenis = "adalah bilangan positif";
+    }
+        else if (bil < 0)
+    {
+            jenis = "adalah bilangan negatif";
+    }
+    else
+    {
+        jenis = "adalah Nol";
+    }
+    alert(bil + " " + jenis);
+    }
+}
+//--></SCRIPT>
+<form name="fform">
+<h2><BR>Bilangan Negatif, Nol, Atau Positif<BR></h2>    
+Masukan Bilangan : <input type="text" size="11" name="bilangan">
+<P> 
+<input type="button" value="Tanya" onClick="tanyabilangan()"/>
+<input type="reset" value="Ulang"/>
+</form>
+</BODY>
+</HTML>
