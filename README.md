@@ -339,6 +339,53 @@ Buat Program dengan menggunakan Javascript untuk menyelesaikan masalah tersebut.
 <H2> == HASIL == </H2>
 <img width="955" height="220" alt="image" src="https://github.com/user-attachments/assets/9fa96198-3232-4c8c-a654-5d83be351eca" />
 
+<h1> 5. PERULANGAN </h1>
+<br><b> 5.1 Perulangan </b></br>
+<p align = "justify" > Untuk mengulang kejadian beberapa kali maka kita membutuhkan proses perulangan pada Java Script dikenal beberapa metode/cara perulangan .  </p>
+
+<br><b> 5.2 Perulangan For </b></br>
+<p align = "justify" > Digunakan untuk mengeksekusi pernyataan-pernyataan beberapa kali. Perulangan for paling sering dipakai,jika anda sudah tahu akhir dari perulangan tersebut. Perintah for mengulang suatu loop sampai kondisi menghasilkan evaluasi true atau loop keluar dengan perintah break. </p>
+
+Contoh :
+for (nilai awal; kondisi; penambahan)
+{
+  ulang pernyataan ini;
+}
+Contoh dalam program :
+For(x=1;x<=10;x++1)
+{
+  document.writeln("Belajar Javascript");
+}
+<h2 style="background-color: Yellow;">Contoh Program Javascript</h2> 
+<img width="742" height="462" alt="image" src="https://github.com/user-attachments/assets/d0af86e1-760e-4932-8664-b0a8eb140347" />
+
+<img width="293" height="391" alt="image" src="https://github.com/user-attachments/assets/61c06297-3231-4105-bd6f-774bc17aa8f9" />
+
+<br><b> 5.3 Perulangan While </b></br>
+<p align = "justify" > Perulangan lain yang dapat digunakan adalah dengan menggunakan perintah While. Perintah while digunakan untuk perulangan yang tidak diketahui berpa kali proses perulangannya. Perintah while terus mengulangi loop selama kondisi memiliki nilai true. Syntx untuk perintah while adalah sebagai berikut : </p>
+while (konidisi)
+{
+  ulang pernyataan ini;
+}
+<h2 style="background-color: Yellow;">Contoh Program Javascript</h2>
+<img width="652" height="469" alt="image" src="https://github.com/user-attachments/assets/e369d3a3-e96f-4b8f-a137-f2ab76ccfb2f" />
+<img width="455" height="199" alt="image" src="https://github.com/user-attachments/assets/8484f6e7-03dd-488e-9047-ef27adb452a6" />
+<img width="305" height="132" alt="image" src="https://github.com/user-attachments/assets/9acb00f4-ead1-4894-a86c-62c681d614dd" />
+
+<br><b> 5.4 Perulangan Do While </b></br>
+<p align = "justify" > Perulangan ini hampir sama seperti while, digunakan apabila kita belum tahu berapa kali perulangan harus dilakukan. Bedanya pernyataan do..while pengujiannya dilakukan di akhir pernyataan. </p>
+
+Do
+{
+  //pernyataan1 dieksekusi
+}
+while (kondisi);
+
+<h2 style="background-color: Yellow;">Contoh Program Javascript</h2> 
+
+
+
+
 
 
 
