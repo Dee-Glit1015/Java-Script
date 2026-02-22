@@ -382,6 +382,28 @@ Do
 while (kondisi);
 
 <h2 style="background-color: Yellow;">Contoh Program Javascript</h2> 
+<img width="650" height="517" alt="image" src="https://github.com/user-attachments/assets/01d88e3d-d933-4aae-a8d7-b4965f27cdaa" />
+<img width="726" height="255" alt="image" src="https://github.com/user-attachments/assets/89099921-3cf9-41ce-8c28-7fdb0e59812c" />
+
+Adapun hasil yang diperoleh adalah sebagai berikut : 
+
+1. Tampilan Awal
+   <img width="550" height="140" alt="image" src="https://github.com/user-attachments/assets/cbc39ce1-a3d9-49f8-a9ea-ee886618df2c" />
+
+2. Prompt Password
+   <img width="455" height="200" alt="image" src="https://github.com/user-attachments/assets/c0b6be09-b265-4d89-bca4-16de067e8b4a" />
+
+3. Alert Apabila Terjadi Kesalahan Password
+   <img width="448" height="143" alt="image" src="https://github.com/user-attachments/assets/a18c29f6-e5e7-4123-85f9-191d125cd678" />
+
+4. Alert apabila telah terjadi 3 kali kesalahan
+   <img width="443" height="140" alt="image" src="https://github.com/user-attachments/assets/7379fda5-0d2c-4797-9af2-0d924ccda02a" />
+
+5. Apabila Password Benar
+   <img width="447" height="148" alt="image" src="https://github.com/user-attachments/assets/7cda5ef3-055c-4578-b236-6e1fe1b22101" />
+
+
+
 
 
 
