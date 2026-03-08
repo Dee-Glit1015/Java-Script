@@ -339,6 +339,19 @@ Buat Program dengan menggunakan Javascript untuk menyelesaikan masalah tersebut.
 <H2> == HASIL == </H2>
 <img width="955" height="220" alt="image" src="https://github.com/user-attachments/assets/9fa96198-3232-4c8c-a654-5d83be351eca" />
 
+<br><b> 4.4 Percabangan Majemuk </b></br>
+<p align = "justify" > Percabangan majemuk adalah suatu percabangan yang dapat melibatkan lebih dari 1 kondisi didalam percabangannya. Biasanya percabangan seperti ini menggunakan operator tambahan seperti AND,OR dab sebagainya .  </p>
+
+<h2 style="background-color: Yellow;">Contoh Program Javascript</h2> 
+<img width="674" height="501" alt="image" src="https://github.com/user-attachments/assets/3e30fc3a-7ee9-4ff0-a0b7-e95e38b58e47" />
+<img width="579" height="426" alt="image" src="https://github.com/user-attachments/assets/82454f9d-f922-432d-ae64-e801559acaf4" />
+<img width="652" height="418" alt="image" src="https://github.com/user-attachments/assets/278fcf54-8806-4e55-a5ca-75c5720b78ba" />
+<img width="703" height="396" alt="image" src="https://github.com/user-attachments/assets/c8ee4a7c-2555-4c19-8c45-b99c4bd6ba68" />
+
+<H2> == HASIL == </H2>
+<img width="1031" height="196" alt="image" src="https://github.com/user-attachments/assets/3a21bd10-d64a-42e7-a8b5-aeb0c1742815" />
+
+
 <h1> 5. PERULANGAN </h1>
 <br><b> 5.1 Perulangan </b></br>
 <p align = "justify" > Untuk mengulang kejadian beberapa kali maka kita membutuhkan proses perulangan pada Java Script dikenal beberapa metode/cara perulangan .  </p>
