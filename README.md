@@ -351,6 +351,26 @@ Buat Program dengan menggunakan Javascript untuk menyelesaikan masalah tersebut.
 <H2> == HASIL == </H2>
 <img width="1031" height="196" alt="image" src="https://github.com/user-attachments/assets/3a21bd10-d64a-42e7-a8b5-aeb0c1742815" />
 
+<br><b> 4.5 Switch </b></br>
+<p align = "justify" > Selain menggunakan if..else, percabangan juga dapat ditangani dengan perintah siwtch. Dengan kata lain pernyataan switch digunakan untuk menyederhanakan pernyataan if..else yang terlalu  banyak. </p>
+
+<h2 style="background-color: Yellow;">Contoh Program Javascript</h2> 
+
+<img width="656" height="500" alt="image" src="https://github.com/user-attachments/assets/9b4deeb2-3943-4c9e-86b3-f1505a77965b" />
+
+<img width="647" height="276" alt="image" src="https://github.com/user-attachments/assets/b4eaef5f-ab7e-462f-82cf-0683074f5614" />
+
+<H2> == HASIL == </H2>
+<img width="432" height="142" alt="image" src="https://github.com/user-attachments/assets/b10ded23-c161-4079-9685-992895c9716e" />
+<img width="452" height="150" alt="image" src="https://github.com/user-attachments/assets/3e2f9aad-aba2-4e1c-9358-b88393981258" />
+
+
+
+
+
+
+
+
 
 <h1> 5. PERULANGAN </h1>
 <br><b> 5.1 Perulangan </b></br>
