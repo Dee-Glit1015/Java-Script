@@ -363,6 +363,22 @@ Buat Program dengan menggunakan Javascript untuk menyelesaikan masalah tersebut.
 <H2> == HASIL == </H2>
 <img width="432" height="142" alt="image" src="https://github.com/user-attachments/assets/b10ded23-c161-4079-9685-992895c9716e" />
 <img width="452" height="150" alt="image" src="https://github.com/user-attachments/assets/3e2f9aad-aba2-4e1c-9358-b88393981258" />
+<img width="440" height="150" alt="image" src="https://github.com/user-attachments/assets/b911396b-92ab-49b1-9dbf-78f85e242ba5" />
+<img width="453" height="148" alt="image" src="https://github.com/user-attachments/assets/16f052b9-b40b-4bba-9417-130ce324be56" />
+
+
+<br><b> LATIHAN </b></br>
+<p align = "justify" > Buatlah halaman seperti berikut, yang mencakup semua materi yang terdapat pada modul ini. Perusahaan Travel Bintang Abadi memiliki armada dengan tujuan Jakarta, Solo dan Surabaya. Setiap tujuan memiliki kelas Eksekutif, Bisnis dan Ekonomi.
+  <img width="390" height="67" alt="image" src="https://github.com/user-attachments/assets/c14f8974-ce80-4edb-afa7-2560ae1d31bf" />
+Diskon 10% diberikan apabila pemesan tiket merupakan anggota Travel Bintang
+Abadi.
+Input : Nama Pemesan, Tujuan, Kelas, Banyak Tiket dan Status Member/Bukan
+Output : Harga Tiket, Subtotal, Diskon dan Total Bayar
+Tampilan : <img width="554" height="378" alt="image" src="https://github.com/user-attachments/assets/88f68a40-b2b2-4ad6-88e8-2a2ee7093435" />
+  </p>
+
+
+
 
 
 
