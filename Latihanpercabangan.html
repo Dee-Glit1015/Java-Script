@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Travel Permata Abadi</title>
+    <script type="text/javascript">
+        function hitung() {
+            var nama = document.getElementById("nama").value;
+            var tujuan = document.getElementById("tujuan").value;
+            var kelas = document.getElementById("kelas").value;
+            var jumlahTiket = parseInt(document.getElementById("jumlahTiket").value);
+            var member = document.getElementById("member").checked;
+
+            if (nama == "") {
+                alert("Masukkan Nama");
+                return;
+            }
+
+            if (isNaN(jumlahTiket) || jumlahTiket <= 0) {
+                alert("Masukkan Jumlah Tiket");
+                return;
+            }
+
+            var hargaTiket = 0;
+            if (tujuan == "Jakarta") {
+                if (kelas == "Eksekutif") {
+                    hargaTiket = 70000;
+                } else if (kelas == "Bisnis") {
+                    hargaTiket = 40000;
+                } else {
+                    hargaTiket = 10000;
+                }
+            } else if (tujuan == "Solo") {
+                if (kelas == "Eksekutif") {
+                    hargaTiket = 80000;
+                } else if (kelas == "Bisnis") {
+                    hargaTiket = 50000;
+                } else {
+                    hargaTiket = 20000;
+                }
+            } else if (tujuan == "Surabaya") {
+                if (kelas == "Eksekutif") {
+                    hargaTiket = 90000;
+                } else if (kelas == "Bisnis") {
+                    hargaTiket = 60000;
+                } else {
+                    hargaTiket = 30000;
+                }
+            }
+
+            var subTotal = hargaTiket * jumlahTiket;
+
+            var diskon = 0;
+            if (member) {
+                diskon = 0.1 * subTotal;
+            }
+
+            var totalBayar = subTotal - diskon;
+
+            document.getElementById("hargaTiket").value = hargaTiket;
+            document.getElementById("subTotal").value = subTotal;
+            document.getElementById("diskon").value = diskon;
+            document.getElementById("totalBayar").value = totalBayar;
+        }
+
+        function ulang() {
+            document.getElementById("nama").value = "";
+            document.getElementById("tujuan").selectedIndex = 0;
+            document.getElementById("kelas").selectedIndex = 0;
+            document.getElementById("jumlahTiket").value = "";
+            document.getElementById("member").checked = false;
+            document.getElementById("hargaTiket").value = "";
+            document.getElementById("subTotal").value = "";
+            document.getElementById("diskon").value = "";
+            document.getElementById("totalBayar").value = "";
+        }
+    </script>
+</head>
+<body>
+    <div style="border: 1px solid black; width: 600px; margin: 20px auto; padding: 20px; font-family: Arial, sans-serif;">
+        <h1 style="text-align: center;">Travel Permata Abadi</h1>
+        <form>
+            <table width="100%">
+                <tr>
+                    <td width="50%">
+                        <table width="100%">
+                            <tr>
+                                <td>Nama</td>
+                                <td>:</td>
+                                <td><input type="text" id="nama" name="nama"></td>
+                            </tr>
+                            <tr>
+                                <td>Tujuan</td>
+                                <td>:</td>
+                                <td>
+                                    <select id="tujuan" name="tujuan">
+                                        <option value="Jakarta">Jakarta</option>
+                                        <option value="Bandung">Bandung</option>
+                                        <option value="Surabaya">Surabaya</option>
+                                    </select>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>Kelas</td>
+                                <td>:</td>
+                                <td>
+                                    <select id="kelas" name="kelas">
+                                        <option value="Eksekutif">Eksekutif</option>
+                                        <option value="Bisnis">Bisnis</option>
+                                        <option value="Ekonomi">Ekonomi</option>
+                                    </select>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>Jumlah Tiket</td>
+                                <td>:</td>
+                                <td><input type="text" id="jumlahTiket" name="jumlahTiket"></td>
+                            </tr>
+                            <tr>
+                                <td>Member</td>
+                                <td>:</td>
+                                <td><input type="checkbox" id="member" name="member"> Ya</td>
+                            </tr>
+                        </table>
+                    </td>
+                    <td width="50%" valign="top">
+                        <table width="100%">
+                            <tr>
+                                <td>Harga Tiket</td>
+                                <td>:</td>
+                                <td><input type="text" id="hargaTiket" name="hargaTiket" readonly></td>
+                            </tr>
+                            <tr>
+                                <td>Sub Total</td>
+                                <td>:</td>
+                                <td><input type="text" id="subTotal" name="subTotal" readonly></td>
+                            </tr>
+                            <tr>
+                                <td>Diskon</td>
+                                <td>:</td>
+                                <td><input type="text" id="diskon" name="diskon" readonly></td>
+                            </tr>
+                            <tr>
+                                <td>Total Bayar</td>
+                                <td>:</td>
+                                <td><input type="text" id="totalBayar" name="totalBayar" readonly></td>
+                            </tr>
+                        </table>
+                    </td>
+                </tr>
+            </table>
+            <div style="text-align: center; margin-top: 20px;">
+                <input type="button" value="Hitung" onclick="hitung()">
+                <input type="button" value="Ulang" onclick="ulang()">
+            </div>
+        </form>
+    </div>
+</body>
+</html>
