@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>PERHITUNGAN FAKTORIAL dan DERET</title>
+    <script type="text/javascript">
+        function hitung() {
+            // Mengambil nilai N dari input
+            var n = parseInt(document.getElementById('inputN').value);
+            
+            if (isNaN(n) || n < 0) {
+                alert("Masukkan angka positif yang valid!");
+                return;
+            }
+
+            // Menghitung Faktorial (n!)
+            var faktorial = 1;
+            for (var i = 1; i <= n; i++) {
+                faktorial *= i;
+            }
+
+            // Menghitung Jumlah Deret (1 + 2 + ... + n)
+            var jumlah = 0;
+            for (var j = 1; j <= n; j++) {
+                jumlah += j;
+            }
+
+            // Menampilkan hasil ke input masing-masing
+            document.getElementById('hasilFaktorial').value = faktorial;
+            document.getElementById('hasilJumlah').value = jumlah;
+        }
+
+        function resetForm() {
+            document.getElementById('inputN').value = "";
+            document.getElementById('hasilFaktorial').value = "";
+            document.getElementById('hasilJumlah').value = "";
+        }
+    </script>
+   <style>
+        body {
+            /* Menambahkan background warna kuning pada seluruh halaman */
+            background-color: #f8ae8c; 
+            font-family: 'Courier New', Courier, monospace, sans-serif;
+        }
+        table {
+            border-collapse: collapse;
+            margin: 20px auto;
+            background-color: rgb(255, 255, 255); /* Opsional: Membuat tabel tetap putih agar lebih jelas */
+        }
+        th, td {
+            border: 1px solid yellow;
+            padding: 8px;
+            text-align: left;
+        }
+        th {
+            background-color: #f2f2f2;
+        }
+    </style>
+</head>
+<body>
+
+    <table border="1" align="center" width="50%">
+        <tr>
+            <td colspan="2" class="header-text">
+                PERHITUNGAN<br>FAKTORIAL dan DERET
+            </td>
+            <td width="100"></td>
+        </tr>
+        <tr>
+            <td>N</td>
+            <td><input type="text" id="inputN" size="20" style="background-color: yellow;"></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Hasil</td>
+            <td colspan="2"></td>
+        </tr>
+        <tr>
+            <td>Faktorial</td>
+            <td><input type="text" id="hasilFaktorial" size="20" style="background-color: yellow;"></td>
+            <td>
+                <input type="button" value="Submit" onclick="hitung()">
+                <input type="button" value="Reset" onclick="resetForm()">
+            </td>
+        </tr>
+        <tr>
+            <td>Jumlah</td>
+             <td><input type="text" id="hasilJumlah" size="20" style="background-color: yellow;"></td>
+            <td></td>
+        </tr>
+    </table>
+    </div>
+</body>
+</html>
