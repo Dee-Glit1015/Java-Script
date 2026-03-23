@@ -383,15 +383,12 @@ Output : Harga Tiket, Subtotal, Diskon dan Total Bayar
 <img width="890" height="277" alt="image" src="https://github.com/user-attachments/assets/dd4a4fc8-2967-49fd-a959-2bef87d7b3a1" />
 
 =HASIL=
+
 <img width="644" height="293" alt="image" src="https://github.com/user-attachments/assets/0a21cf41-7a1b-49f7-9fc8-b6f4fb07f334" />
 <img width="643" height="293" alt="image" src="https://github.com/user-attachments/assets/ba285526-44db-4ac3-a740-35f34c22bc34" />
 <img width="644" height="292" alt="image" src="https://github.com/user-attachments/assets/aeb3fc20-1f5a-4bd3-964b-f3aa298f6bf2" />
 
-
-
-
   </p>
-
 
 <h1> 5. PERULANGAN </h1>
 <br><b> 5.1 Perulangan </b></br>
