@@ -440,18 +440,23 @@ Adapun hasil yang diperoleh adalah sebagai berikut :
 
 1. Tampilan Awal
    <img width="550" height="140" alt="image" src="https://github.com/user-attachments/assets/cbc39ce1-a3d9-49f8-a9ea-ee886618df2c" />
-
 2. Prompt Password
    <img width="455" height="200" alt="image" src="https://github.com/user-attachments/assets/c0b6be09-b265-4d89-bca4-16de067e8b4a" />
-
 3. Alert Apabila Terjadi Kesalahan Password
    <img width="448" height="143" alt="image" src="https://github.com/user-attachments/assets/a18c29f6-e5e7-4123-85f9-191d125cd678" />
-
 4. Alert apabila telah terjadi 3 kali kesalahan
    <img width="443" height="140" alt="image" src="https://github.com/user-attachments/assets/7379fda5-0d2c-4797-9af2-0d924ccda02a" />
-
 5. Apabila Password Benar
    <img width="447" height="148" alt="image" src="https://github.com/user-attachments/assets/7cda5ef3-055c-4578-b236-6e1fe1b22101" />
+
+   <br><b> LATIHAN </b></br>
+
+   1. Buat Program untuk menentukan faktorial dan jumlah deret sampai ke N
+      <img width="894" height="311" alt="image" src="https://github.com/user-attachments/assets/a571d109-4297-4e81-ad30-f8f3ee620c0d" />
+
+
+
+
 
 
 
