@@ -355,9 +355,7 @@ Buat Program dengan menggunakan Javascript untuk menyelesaikan masalah tersebut.
 <p align = "justify" > Selain menggunakan if..else, percabangan juga dapat ditangani dengan perintah siwtch. Dengan kata lain pernyataan switch digunakan untuk menyederhanakan pernyataan if..else yang terlalu  banyak. </p>
 
 <h2 style="background-color: Yellow;">Contoh Program Javascript</h2> 
-
 <img width="656" height="500" alt="image" src="https://github.com/user-attachments/assets/9b4deeb2-3943-4c9e-86b3-f1505a77965b" />
-
 <img width="647" height="276" alt="image" src="https://github.com/user-attachments/assets/b4eaef5f-ab7e-462f-82cf-0683074f5614" />
 
 <H2> == HASIL == </H2>
@@ -375,28 +373,24 @@ Abadi.
 Input : Nama Pemesan, Tujuan, Kelas, Banyak Tiket dan Status Member/Bukan
 Output : Harga Tiket, Subtotal, Diskon dan Total Bayar
 = Source Code = 
-<img width="801" height="477" alt="image" src="https://github.com/user-attachments/assets/a9772dc0-9384-4102-a9ba-36b369ff3ddf" />
-<img width="767" height="434" alt="image" src="https://github.com/user-attachments/assets/0cb3e381-c46f-45e6-8dd9-e576909aefe8" />
-<img width="788" height="413" alt="image" src="https://github.com/user-attachments/assets/67f1ec9b-fe40-4e3e-8bbd-5a7d5536488c" />
+<img width="787" height="481" alt="image" src="https://github.com/user-attachments/assets/77028b55-7ad2-470e-ac09-e1751a1d6247" />
+<img width="625" height="425" alt="image" src="https://github.com/user-attachments/assets/b941999f-306a-4842-8289-d781b72fef98" />
+<img width="670" height="408" alt="image" src="https://github.com/user-attachments/assets/b529d06d-c572-4412-94d4-905f819e2553" />
+<img width="816" height="404" alt="image" src="https://github.com/user-attachments/assets/520f1d0e-1fa7-46c8-8526-f514f6cf811a" />
+<img width="795" height="362" alt="image" src="https://github.com/user-attachments/assets/d505b535-c536-4f56-a736-c35507751e8b" />
+<img width="841" height="363" alt="image" src="https://github.com/user-attachments/assets/6cc9ffc1-2d04-4616-8761-cf6c3d729b71" />
+<img width="884" height="401" alt="image" src="https://github.com/user-attachments/assets/3d93212d-14b1-44f1-835a-7e2a9c9b18b9" />
+<img width="890" height="277" alt="image" src="https://github.com/user-attachments/assets/dd4a4fc8-2967-49fd-a959-2bef87d7b3a1" />
+
+=HASIL=
+<img width="644" height="293" alt="image" src="https://github.com/user-attachments/assets/0a21cf41-7a1b-49f7-9fc8-b6f4fb07f334" />
+<img width="643" height="293" alt="image" src="https://github.com/user-attachments/assets/ba285526-44db-4ac3-a740-35f34c22bc34" />
+<img width="644" height="292" alt="image" src="https://github.com/user-attachments/assets/aeb3fc20-1f5a-4bd3-964b-f3aa298f6bf2" />
 
 
 
 
-
-
-
-  
   </p>
-
-
-
-
-
-
-
-
-
-
 
 
 <h1> 5. PERULANGAN </h1>
