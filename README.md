@@ -454,6 +454,50 @@ Adapun hasil yang diperoleh adalah sebagai berikut :
    1. Buat Program untuk menentukan faktorial dan jumlah deret sampai ke N
       <img width="894" height="311" alt="image" src="https://github.com/user-attachments/assets/a571d109-4297-4e81-ad30-f8f3ee620c0d" />
 
+<h1> 6. PERULANGAN </h1>
+
+<br><b> 6.1 Perulangan Do While </b></br>
+<p align = "justify" >Array adalah suatu variabel yang dapat memuat beberapa nilai secara berurutan atau seri. Artinya variabel yang di deklarasikan sebagai array isinya tidak satu. Berikut adalah pendeklarasian untuk array.</p>
+
+nama = ne Array (3)
+
+<p align = "justify" >Pernyataan diatas menunjukkan bahwa variabel nama memiliki 3 elemen. Ketiga elemen tersebut akan mememeilki nilai masing-masing 0,1,2. Nilai pertama = 0.Untuk mengisikan ketiga elemen tersebut kita dapat melakukan dengan cara : </p>
+
+<ul>
+  <li> [0] = "Dian" </li>
+  <li> [1] = "Andri" </li>
+  <li> [2] = "Irawan" </li>
+</ul>
+
+<p align = "justify" >Selain cara diatas kita juga mendeklarasikan array sekaligus dengan mengisikan elemen-elemennya. </p>
+
+nama= new Array ("Dian","Andri","Irawan")
+
+Maka hasilbya seperti dibawah ini :
+nama yang ke 1 [0] isinya adalah"Dian"
+nama yang ke 2 [1] isinya adalah "Andri"
+nama yang ke 3 [2] isinya adalah "irawan"
+
+<br><b> 6.1.1 Contoh Kasus </b></br>
+<img width="670" height="441" alt="image" src="https://github.com/user-attachments/assets/bb90d393-cd90-47c2-8708-15fc2399ddb4" />
+
+==Hasil==
+<img width="358" height="93" alt="image" src="https://github.com/user-attachments/assets/ee847d9a-cace-4cb2-9bf2-9d4206f80acf" />
+
+<br><b> 6.1.2 Contoh Kasus </b></br>
+<img width="726" height="499" alt="image" src="https://github.com/user-attachments/assets/5c5dc7cf-575e-4adb-b709-26fd66e71b50" />
+
+==Hasil==
+<img width="389" height="124" alt="image" src="https://github.com/user-attachments/assets/e353977c-4bd2-4a5b-a451-9ecd186e5471" />
+
+
+
+
+
+
+
+
+
 
 
 
