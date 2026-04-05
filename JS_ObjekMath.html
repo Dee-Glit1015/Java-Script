@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Latihan Objek Math</title>
+</head>
+<body>
+
+    <h2>Latihan Dengan Objek Math</h2>
+
+    <script>
+        // 1. Mencari angka terbesar (antara 10 dan 5)
+        let angka1 = 10;
+        let angka2 = 5;
+        let terbesar = Math.max(angka1, angka2);
+        document.write("antara " + angka1 + " dan " + angka2 + " lebih besar " + terbesar + "<br>");
+
+        // 2. Perpangkatan (5 pangkat 10)
+        let pangkat = Math.pow(5, 10);
+        document.write("5 pangkat 10 adalah " + pangkat + "<br>");
+
+        // 3. Bilangan Acak untuk Pengunjung (misal antara 1 - 20000)
+        // Math.random() menghasilkan 0-1, maka dikali 20000 dan dibulatkan ke bawah
+        let pengunjung = Math.floor(Math.random() * 20000) + 1;
+        document.write("Anda adalah pengunjung yang ke " + pengunjung + ".<br>");
+
+        // 4. Akar Kuadrat dari angka pengunjung tadi
+        let akar = Math.sqrt(pengunjung);
+        document.write("Akar dari " + pengunjung + " adalah " + akar + "<br>");
+    </script>
+
+</body>
+</html>
