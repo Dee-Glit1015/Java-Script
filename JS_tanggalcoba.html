@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Latihan Objek Date</title>
+    <style>
+        body {
+            background-color: yellow;
+            text-align: center;
+            font-family: 'Courier New', Courier, monospace, sans-serif;
+        }
+        hr {
+            width: 80%;
+            border: 0.5px solid gray;
+        }
+    </style>
+</head>
+<body>
+
+    <h3>Latihan Objek Date/Tanggal</h3>
+    <script>
+        // 1. Ambil data waktu sekarang
+        const sekarang = new Date();
+
+        // 2. Array untuk nama hari (Indonesia)
+        const daftarHari = ["Minggu", "Senin", "Selasa", "Rabu", "Kamis", "Jumat", "Sabtu"];
+        
+        // 3. Array untuk nama bulan (Indonesia)
+        const daftarBulan = [
+            "Januari", "Februari", "Maret", "April", "Mei", "Juni", 
+            "Juli", "Agustus", "September", "Oktober", "November", "Desember"
+        ];
+
+        // 4. Ambil komponen tanggal
+        let hari = daftarHari[sekarang.getDay()];
+        let tanggal = sekarang.getDate();
+        let bulan = daftarBulan[sekarang.getMonth()];
+        let tahun = sekarang.getFullYear();
+
+        // 5. Ambil komponen jam
+        let jam = sekarang.getHours();
+        let menit = sekarang.getMinutes();
+        let detik = sekarang.getSeconds();
+
+        // Format agar menit/detik selalu 2 digit (misal: 08:05:01)
+        menit = menit < 10 ? '0' + menit : menit;
+        detik = detik < 10 ? '0' + detik : detik;
+
+        // 6. Tampilkan ke layar
+        document.write("<h2>Sekarang adalah hari :" + hari + ", tanggal : " + tanggal + " " + bulan + " " + 
+            tahun + "</h2>");
+        document.write("<hr>");
+        document.write("<h3>Jam sekarang = " + jam + ":" + menit + ":" + detik + "</h3>");
+    </script>
+
+</body>
+</html>
