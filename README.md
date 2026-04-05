@@ -490,6 +490,42 @@ nama yang ke 3 [2] isinya adalah "irawan"
 <br>==Hasil==</br>
 <img width="389" height="124" alt="image" src="https://github.com/user-attachments/assets/e353977c-4bd2-4a5b-a451-9ecd186e5471" />
 
+<br><b> 6.2 Objek Tanggal (Data Object) </b></br>
+<p align = "justify" > Objek ini digunakan memanipulasi tanggal dan waktu pada Jabascript. UNtuk pendeklarasian nya adalah sebagai berikut : </p>
+
+lama = new Date()
+
+<p align = "justify" > Pernyataan diatas menyatakan bahwa variabel lama mengandung unsur tanggal dan waktu. </p>
+
+<p align = "justify" > Metode - metode untuk Objek Date </p>
+<img width="436" height="196" alt="image" src="https://github.com/user-attachments/assets/d8152b77-14b2-4e9b-b486-1b8885dffa9d" />
+
+<br> Contoh Kasus Objek Tanggal </br>
+<img width="809" height="552" alt="image" src="https://github.com/user-attachments/assets/cec3969f-0e8b-422c-b4b2-ea82986064f7" />
+<img width="710" height="324" alt="image" src="https://github.com/user-attachments/assets/b3a249bb-1677-4b03-b6fa-5eb9a121ea45" />
+<img width="903" height="269" alt="image" src="https://github.com/user-attachments/assets/ed1918a3-ca71-4a14-8e06-a9e6b8dfadeb" />
+
+<br>==Hasil==</br>
+<img width="683" height="184" alt="image" src="https://github.com/user-attachments/assets/c666bc19-5b99-4a68-b7f2-b9a9f99cfd00" />
+
+
+
+
+
+
+
+
+
+
+
+
+              
+
+
+
+
+
+
 
 
 
