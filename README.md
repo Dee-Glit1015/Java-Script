@@ -481,13 +481,13 @@ nama yang ke 3 [2] isinya adalah "irawan"
 <br><b> 6.1.1 Contoh Kasus </b></br>
 <img width="670" height="441" alt="image" src="https://github.com/user-attachments/assets/bb90d393-cd90-47c2-8708-15fc2399ddb4" />
 
-==Hasil==
+<br>==Hasil==</br>
 <img width="358" height="93" alt="image" src="https://github.com/user-attachments/assets/ee847d9a-cace-4cb2-9bf2-9d4206f80acf" />
 
 <br><b> 6.1.2 Contoh Kasus </b></br>
 <img width="726" height="499" alt="image" src="https://github.com/user-attachments/assets/5c5dc7cf-575e-4adb-b709-26fd66e71b50" />
 
-==Hasil==
+<br>==Hasil==</br>
 <img width="389" height="124" alt="image" src="https://github.com/user-attachments/assets/e353977c-4bd2-4a5b-a451-9ecd186e5471" />
 
 
