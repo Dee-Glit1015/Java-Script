@@ -508,6 +508,31 @@ lama = new Date()
 <br>==Hasil==</br>
 <img width="683" height="184" alt="image" src="https://github.com/user-attachments/assets/c666bc19-5b99-4a68-b7f2-b9a9f99cfd00" />
 
+<br><b> 6.3 Objek Math </b></br>
+<p align = "justify" > Math digunakan untuk menangan perhitungan matematis yang rumit. Bentuk penulisan : </p>
+
+Math.metode (nilai)
+
+<p align = "justify" > Metode Untuk Objek Math </p>
+
+<img width="430" height="331" alt="image" src="https://github.com/user-attachments/assets/c903acfc-5af9-4c48-ae62-99b9acf83edd" />
+
+<br> Contoh Program Javascript </br>
+<img width="872" height="490" alt="image" src="https://github.com/user-attachments/assets/f85bdc26-672a-467e-acf5-cb31eb9e0a87" />
+<img width="844" height="152" alt="image" src="https://github.com/user-attachments/assets/4c638d67-95b1-47fd-9069-e63e4191e7af" />
+
+<br>==Hasil==</br>
+<img width="347" height="144" alt="image" src="https://github.com/user-attachments/assets/e97637ad-8302-484d-8b56-29805be7f1a8" />
+
+
+
+
+
+
+
+
+
+
 
 
 
