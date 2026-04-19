@@ -542,6 +542,14 @@ Math.metode (nilai)
  <img width="451" height="148" alt="image" src="https://github.com/user-attachments/assets/2adc0839-042b-433c-9bbd-fca727d4b403" />
  <img width="541" height="145" alt="image" src="https://github.com/user-attachments/assets/52e84719-ad7a-4d6a-afa7-7717195637e6" />
 
+ <h1> Penjelasan Singkat </h1>
+ <ul>
+<li><img width="115" height="30" alt="image" src="https://github.com/user-attachments/assets/8922a349-ec8b-448e-9359-a0b951b33107" /> disebut diskriminan </li>
+<li> Jika : </li>
+<li> D > 0 -> 2 akar berbeda </li>
+<li> D = 0 -> akar kembar </li>
+<li> D < 0 -> akar imajiner (tidak real) </li>
+
 
 
 
