@@ -525,7 +525,37 @@ Math.metode (nilai)
 <img width="347" height="144" alt="image" src="https://github.com/user-attachments/assets/e97637ad-8302-484d-8b56-29805be7f1a8" />
 
 
+<br> LATIHAN </br>
+<p align = "justify" > 1.Buatlah program dengan javascript untuk memunculkan alert/marquee Selamat Pagi, Selamat Siang dan Selamat Malam. Sesuai dengan waktu yang tertera di komputer !!!
+2. Buat Program untuk menghitung/mencari akar-akar dari suatu persamaan  <img width="123" height="23" alt="image" src="https://github.com/user-attachments/assets/a8459666-f76e-4005-ac30-6b4801addeb7" / Rumus mencari x1 dan x2 adalah : >
+ </p>
+ 
+ = HASIL SOURCE CODE DAN TAMPILAN =
+ 1. <img width="715" height="576" alt="image" src="https://github.com/user-attachments/assets/e28e6e47-2393-48f8-a4c6-adedfa734992" />
+ <img width="685" height="151" alt="image" src="https://github.com/user-attachments/assets/cd6c4700-1fa8-49a7-9428-04e3c2ebde92" />
+ 2. <img width="783" height="307" alt="image" src="https://github.com/user-attachments/assets/490299f4-1ac9-42fc-a717-c7d969ea8899" />
+ <img width="1081" height="393" alt="image" src="https://github.com/user-attachments/assets/cc5b8009-7636-4b7a-ba12-cc59c2860e15" />
+ <img width="650" height="278" alt="image" src="https://github.com/user-attachments/assets/bfbcbbbb-a8f8-475c-90de-695748849304" />
+ <img width="456" height="205" alt="image" src="https://github.com/user-attachments/assets/e7865f1e-12ba-4963-8856-2a78248135b2" />
+ <img width="450" height="200" alt="image" src="https://github.com/user-attachments/assets/f34db2a2-6781-4ea0-b3a5-3ad86d897864" />
+ <img width="445" height="192" alt="image" src="https://github.com/user-attachments/assets/0f6eb44b-55b4-49bf-89d3-2a2e1f5643e1" />
+ <img width="451" height="148" alt="image" src="https://github.com/user-attachments/assets/2adc0839-042b-433c-9bbd-fca727d4b403" />
+ <img width="541" height="145" alt="image" src="https://github.com/user-attachments/assets/52e84719-ad7a-4d6a-afa7-7717195637e6" />
 
+
+
+
+
+
+
+
+
+
+
+ 
+
+ 
+ 
 
 
 
