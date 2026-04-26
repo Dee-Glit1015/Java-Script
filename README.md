@@ -550,6 +550,17 @@ Math.metode (nilai)
 <li> D = 0 -> akar kembar </li>
 <li> D < 0 -> akar imajiner (tidak real) </li>
 
+<h1> 7. Object Javascript (3) </h1>
+
+<br><b> 7.1 Objek String </b></br>
+<p align = "justify" > String adalah suatu objek yang merupakan kumpulan dari elemen karakter-karakter. Dalam Javascript string atau karakter harus diapit dengan tnda petik ganda (") atau tanda petik tunggal ('). </p>
+
+Contoh pendeklarasian Objek String :
+Panjang = Nama,length;//Panjang akan berisi 14
+
+<p align = "justify"> Length adalah property yang sering digunakan dalam objek string yang digunakan untuk mengetahui banyaknya karakter dalam suatu string. </p>
+
+
 
 
 
