@@ -559,6 +559,10 @@ Contoh pendeklarasian Objek String :
 Panjang = Nama,length;//Panjang akan berisi 14
 
 <p align = "justify"> Length adalah property yang sering digunakan dalam objek string yang digunakan untuk mengetahui banyaknya karakter dalam suatu string. </p>
+<p align = "justify"> Objel String juga memiliki method yang dapat digunakan untuk memanipulasi string tersebut. Adapun Method yang dapat digunakan meliputi : </p>
+
+
+
 
 
 
