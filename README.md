@@ -454,6 +454,21 @@ Adapun hasil yang diperoleh adalah sebagai berikut :
    1. Buat Program untuk menentukan faktorial dan jumlah deret sampai ke N
       <img width="894" height="311" alt="image" src="https://github.com/user-attachments/assets/a571d109-4297-4e81-ad30-f8f3ee620c0d" />
 
+   2. Buat program untuk menghitung saldo akhir dari suatu tabungan dengan bunga dan jangka waktu tertentu :
+Input :
+  Saldo : 100000
+  Bunga : 101
+  Waktu : 3
+Ketika user menekan tombol Hitung maka akan muncul hasil seperti berikut :
+Saldo Bulan 1 = Rp 110000
+Saldo Bulan 2 = Rp 121000
+Saldo Bulan 3 = Rp 133100
+
+==HASIL==
+<img width="519" height="503" alt="image" src="https://github.com/user-attachments/assets/6006722a-b407-4d4e-82db-f296b59877c7" />
+
+
+
 <h1> 6. PERULANGAN </h1>
 
 <br><b> 6.1 Perulangan Do While </b></br>
