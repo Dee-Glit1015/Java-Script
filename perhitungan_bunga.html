@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Perhitungan Bunga</title>
+    <style>
+        body { font-family: "Times New Roman", serif; font-weight: bold; }
+        .container { width: 400px; margin: 20px; }
+        .input-group { margin-bottom: 5px; }
+        label { display: inline-block; width: 80px; }
+        textarea { width: 100%; height: 200px; margin-top: 10px; }
+    </style>
+</head>
+<body>
+
+    <h2>PERHITUNGAN BUNGA</h2>
+    
+    <div class="container">
+        <p>Data Input :</p>
+        
+        <div class="input-group">
+            <label>Saldo</label>
+            <input type="number" id="saldo">
+        </div>
+        
+        <div class="input-group">
+            <label>Bunga</label>
+            <input type="number" id="bunga" style="width: 50px;"> %
+        </div>
+        
+        <div class="input-group">
+            <label>Waktu</label>
+            <input type="number" id="waktu" style="width: 50px;"> Bulan
+        </div>
+
+        <div style="margin-top: 10px; margin-left: 85px;">
+            <button onclick="hitungBunga()">Submit</button>
+            <button onclick="resetForm()">Reset</button>
+        </div>
+
+        <p>Hasil Perhitungan :</p>
+        <textarea id="hasil" readonly></textarea>
+    </div>
+
+    <script>
+        function hitungBunga() {
+            // Ambil nilai dari input
+            let saldo = parseFloat(document.getElementById('saldo').value);
+            let bungaPersen = parseFloat(document.getElementById('bunga').value);
+            let waktu = parseInt(document.getElementById('waktu').value);
+            let hasilTextarea = document.getElementById('hasil');
+
+            // Validasi input
+            if (isNaN(saldo) || isNaN(bungaPersen) || isNaN(waktu)) {
+                alert("Mohon isi semua data dengan angka!");
+                return;
+            }
+
+            let hasil = "";
+            let saldoBerjalan = saldo;
+
+            // Perulangan untuk menghitung bunga tiap bulan
+            for (let i = 1; i <= waktu; i++) {
+                let bungaNominal = saldoBerjalan * (bungaPersen / 100);
+                saldoBerjalan += bungaNominal;
+                
+                hasil += "Bulan ke-" + i + " : Saldo Akhir = Rp. " + saldoBerjalan.toLocaleString('id-ID') + "\n";
+            }
+
+            // Tampilkan hasil ke textarea
+            hasilTextarea.value = hasil;
+        }
+
+        function resetForm() {
+            document.getElementById('saldo').value = "";
+            document.getElementById('bunga').value = "";
+            document.getElementById('waktu').value = "";
+            document.getElementById('hasil').value = "";
+        }
+    </script>
+
+</body>
+</html>
