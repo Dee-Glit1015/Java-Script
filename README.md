@@ -17,7 +17,7 @@ Javascript adalah bahasa yang terbentuk kumpulan skrip yang pada fungsi nya berj
 Java Script bergantung kepada browser (navigator) yang memanggil halaman web yang berisi skrip dari Javascript dan tentu saja terselip di dalam dokumen HTML Javascript juga tidak memerlukan kompilator atau penterjemah khusus untuk menjalankan nya (pada kenyataan nya kompilator Javascript sendiri sudah termasuk di dakan browser tersebut). Lain halsnya dengan bahasa "Java" (dengan nama Java Script selalu di banding bandingkan) yang memerlukan kompilator khusus untuk menterjemahkan nya di sisi user/klien.</p>
 
 
-<h1> 1.2 Keperluan Java Script </h1>
+<h3> 1.2 Keperluan Java Script </h3>
 
 <p align = "justify"> Untuk mempelajari pemprograman Java Script, ada dua piranti yang di perlukan , yaitu :
 <ul>
@@ -29,7 +29,7 @@ Java Script bergantung kepada browser (navigator) yang memanggil halaman web yan
 </ul>
 </p>
 
-<h1> 1.3 Keperluan Java Script </h1>
+<h3> 1.3 Keperluan Java Script </h3>
 <p align = "justify"> Kode Java Script dituliskan pada file HTML. Terdapat dua cara untuk menuliskan kode-kode Java Script agar dapat ditampilkan pada halaman HTML, yaitu :
 
 <ol type = 'a'>
@@ -56,7 +56,7 @@ Contoh Penulisan :
 
 <p>Diantara tag <SCRIPT........? dan < SCRIPT> tidak diperlukan kode Javascriptnya karena sudah dibuat dalam file terpisah. File yang mengandung kode Javascript berekstensi.js </p>
   
-<b> 1.4 Program Pertama Javascript </b>
+<h3> 1.4 Program Pertama Javascript </h3>
 Pada bagian ini kita akan membuat program dengan menggunakan Javascript. Program ini akan menampilkan teks "Belajar Pemprograman Javascript"
 
 <HTML>
