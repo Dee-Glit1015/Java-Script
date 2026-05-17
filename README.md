@@ -52,7 +52,7 @@ Contoh Penulisan :
 
   Diantara tag <SCRIPT........? dan < SCRIPT> tidak diperlukan kode Javascriptnya karena sudah dibuat dalam file terpisah. File yang mengandung kode Javascript berekstensi.js
   
-<b> 3. Program Pertama Javascript </b>
+<b> 1.4 Program Pertama Javascript </b>
 Pada bagian ini kita akan membuat program dengan menggunakan Javascript. Program ini akan menampilkan teks "Belajar Pemprograman Javascript"
 
 <HTML>
