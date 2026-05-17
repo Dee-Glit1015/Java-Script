@@ -299,12 +299,14 @@ Untuk memasukkan data dari keyboard dapat dilakukan dengan menggunakan perintah 
 <h1> LATIHAN : </h1>
 Buatlah halaman seperti berikut, yang mencakup semua materi yang terdapat pada modul ini.
 <ul>
+  <ol> 
   1. Input berupa : NIM, NAMA, JENIS KELAMIN, AGAMA, STATUS, JURUSAN, KOMENTAR (SESUAIKAN OBJEK YANG DIPAKAI)
   GAMBAR 1
   2. Proses Terjadi di tombol KIRIM
   3. Output : lihat pada gambar 2
   4. Isi dengan NIM, NAMA ANDA
   5. Tugas individu, dikumpulkan minggu ke 5, dalam bentuk print out KODE HTML nya serta Tampilan nya
+ </ol>
 </ul>
 
 <h1> 4. PERCABANGAN </h1>
