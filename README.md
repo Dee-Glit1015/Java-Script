@@ -243,9 +243,9 @@ Untuk memasukkan data dari keyboard dapat dilakukan dengan menggunakan perintah 
   </li>
 </ul>
 
-<h1> 3. Objek Java Script </h1>
+<h1> 3. Objek Java Script (1) </h1>
 
-<br><b> 2.1 Objek Untuk Memasukkan Data</b></br>
+<h3> 3.1 Objek Untuk Memasukkan Data </h3>
 
 <p align = "justify" > Terdapat beberapa objek yang dapat digunakan untuk memasukkan data. Objek-objek tersebut biasanya terdapat dalam suatu form. Adapun objek-objek tersebut meliputi Objek Text, Objek Radio, Objek Checkbox, Objek Textaream, dan Obejek Select. </p>
 
