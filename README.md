@@ -236,6 +236,13 @@ Untuk memasukkan data dari keyboard dapat dilakukan dengan menggunakan perintah 
 <img width="610" height="208" alt="image" src="https://github.com/user-attachments/assets/a3cfc9e1-d2b7-420c-be29-52b6290b9212" />
 
 
+<b> LATIHAN </b>
+<ul>
+  <li>
+    MOdifikasi program sebeumnya agar dapat melakukan operasi pengurangan perkalian dan pembagian !!
+  </li>
+</ul>
+
 <h1> 3. Objek Java Script </h1>
 
 <br><b> 2.1 Objek Untuk Memasukkan Data</b></br>
