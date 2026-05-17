@@ -249,7 +249,7 @@ Untuk memasukkan data dari keyboard dapat dilakukan dengan menggunakan perintah 
 
 <p align = "justify" > Terdapat beberapa objek yang dapat digunakan untuk memasukkan data. Objek-objek tersebut biasanya terdapat dalam suatu form. Adapun objek-objek tersebut meliputi Objek Text, Objek Radio, Objek Checkbox, Objek Textaream, dan Obejek Select. </p>
 
-<br><b> 3.2 Objek Objek Text </b></br>
+<h3> 3.2 Objek Text </h3>
 
 <p align = "justify" > Untuk menginputkan data kita dapat menggunakan kompenen/objek text. Contoh penggunaan nya dapat kita lihat oada contoh berikut : </p>
 
@@ -259,7 +259,7 @@ Untuk memasukkan data dari keyboard dapat dilakukan dengan menggunakan perintah 
 
 <img width="728" height="445" alt="image" src="https://github.com/user-attachments/assets/b4a30936-fe36-4dec-9fa9-87723679ae83" /> 
 
-<br><b> 3.3 Objek Radio </b></br>
+<h3> 3.3 Objek Radio </h3>
 <p align = "justify" > Objek radio adalah komponen untuk melakukan suatu pemilihan data. Karena selalu berupa Array, untuk mengakses satu tombol radio digunakan radio [indeks]. Disamping itu objek radio juga mempunyai nilai True jika dipilih dan False jika tidak. Untuk suatu objek radio menggunakan properti Checked.  </p>
 
 <h2 style="background-color: Yellow;">Contoh Program Javascript</h2> 
@@ -268,7 +268,7 @@ Untuk memasukkan data dari keyboard dapat dilakukan dengan menggunakan perintah 
 
 <img width="718" height="401" alt="image" src="https://github.com/user-attachments/assets/afe0af2b-4cdf-4aec-9f26-552662198a38" />
 
-<br><b> 3.4 Objek Checkbox </b></br>
+<h3> 3.4  Objek Checkbox </h3>
 <p align = "justify" > Objek checkbox menyimpan informasi tentang elemen form yang berupa kotak cek .Penggunaan nya hampir sama seperti objek radio.  </p>
 
 <h2 style="background-color: Yellow;">Contoh Program Javascript</h2> 
@@ -278,7 +278,7 @@ Untuk memasukkan data dari keyboard dapat dilakukan dengan menggunakan perintah 
 
 <img width="634" height="375" alt="image" src="https://github.com/user-attachments/assets/893aca04-e23e-4631-8fff-6d5bb1f059a3" />
 
-<br><b> 3.5 Objek Text Area </b></br>
+<h3> 3.5  Objek Text Area </h3>
 <p align = "justify" > Objek textarea menyimpan informasi tentang elemen form yang berupa kotak teksdengan banyak baris.  </p>
 
 <h2 style="background-color: Yellow;">Contoh Program Javascript</h2> 
@@ -287,14 +287,25 @@ Untuk memasukkan data dari keyboard dapat dilakukan dengan menggunakan perintah 
 
 <img width="625" height="399" alt="image" src="https://github.com/user-attachments/assets/f7e3d215-4e1e-434a-a97f-fbb33fdb157e" />
 
-<br><b> 3.6 Objek Select </b></br>
-<p align = "justify" > Object Select menyimpan informasi tentang elemen form yang berupa kotak daftar. Objek Select berguna apabila didalam form terdapat banayak pilihan yang telah mempunyai nilai tertentu.  </p>
+<h3> 3.6 Objek Select</h3>
+<p align = "justify" > Object Select menyimpan informasi tentang elemen form yang berupa kotak daftar. Objek Select berguna apabila didalam form terdapat banayak pilihan yang telah mempunyai nilai tertentu. </p>
 
 <h2 style="background-color: Yellow;">Contoh Program Javascript</h2> 
 <img width="694" height="507" alt="image" src="https://github.com/user-attachments/assets/4a1c9e0c-b623-4f3a-8700-9a470e7cecd3" />
 <img width="845" height="216" alt="image" src="https://github.com/user-attachments/assets/a3b5c75d-8909-4ec0-8d03-a8923033137f" />
 
 <img width="455" height="285" alt="image" src="https://github.com/user-attachments/assets/fd5b879a-d69d-4f00-ab73-ab43c38d1d9a" />
+
+<h1> LATIHAN : </h1>
+Buatlah halaman seperti berikut, yang mencakup semua materi yang terdapat pada modul ini.
+<ul>
+  1. Input berupa : NIM, NAMA, JENIS KELAMIN, AGAMA, STATUS, JURUSAN, KOMENTAR (SESUAIKAN OBJEK YANG DIPAKAI)
+  GAMBAR 1
+  2. Proses Terjadi di tombol KIRIM
+  3. Output : lihat pada gambar 2
+  4. Isi dengan NIM, NAMA ANDA
+  5. Tugas individu, dikumpulkan minggu ke 5, dalam bentuk print out KODE HTML nya serta Tampilan nya
+</ul>
 
 <h1> 4. PERCABANGAN </h1>
 <br><b> 4.1 Percabangan </b></br>
