@@ -95,23 +95,12 @@ Pada bagian ini kita akan membuat program dengan menggunakan Javascript. Program
  <p align = "justify"> Berikut diberikan contoh Program Javascript yang diletakkan di file lain dan dipanggil melalui suatu file HTML
 
  File isi.js
- document.writenln("<CENTER>");
- document.writeln("<HR WIDTH = 600 COLOR=Black");
- document.writeln("<H1>INSTITUT TEKNOLOGI NASIONAL MALANG</H1>");
- document.writeln("<H2>FAKULTAS TEKNIK INDUSTRI</H2>");
- dodument.writeln("<H3>JURUSAN TEKNIK INFORMATIKA<H3>");
- document.writeln("<HR WIDTH = 600 COLOR = Black>");
- document.writlen("</CENTER>");
+ <img width="708" height="139" alt="image" src="https://github.com/user-attachments/assets/a4ecc121-f991-4e56-8e88-e3eb2d047478" />
 
  File HTML
- <HTML>
-   <BODY>
-     <B> Contoh ini menggunakan Javascript yang diambil dari File lain.. </B>
-       <SCRIPT language = "JavaScript" SRC = "isi.js" > </SCRIPT>
-   </BODY>
- </HTML>
+<img width="816" height="115" alt="image" src="https://github.com/user-attachments/assets/a0b2456a-ec7d-4c50-8d4c-f6d02ab0c57e" />
 
- <h3> Komentar </h3>
+ <h3> 1.5 Komentar </h3>
  
   <p align = "Justify"> Sama seperti bahasa pemprograman lain. Javascript juga menyediakan fasilitas untuk menuliskan komentar, komentar ini berguna bila nantinya anda atau orang lain membaca program. Pemberian komentar dalam Javascript dapat dilakukan dengan dua cara yatu dengan menulsikan komentar setelah tanda garis miring dua kali, contoh :
   //ini komentar
