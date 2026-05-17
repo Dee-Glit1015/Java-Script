@@ -90,18 +90,37 @@ Pada bagian ini kita akan membuat program dengan menggunakan Javascript. Program
 </HTML>
 
         
- <p align = "Justify"> Objek document mempunyai dua metode untuk menuliskan teks, yaitu write dan writeln. Metode write digunakan untuk menuliskan teks tanpa ganti baris, sedangkan metode witeln digunakan untuk menuliskan teks dengan ganti baris.
- Berikut diberikan caontoh program Javascript yang diltekkan di file lain dan dipanggil melaluo suatu file HTML. </p>
+ <p align = "Justify"> Objek document mempunyai dua metode untuk menuliskan teks, yaitu write dan writeln. Metode write digunakan untuk menuliskan teks tanpa ganti baris, sedangkan metode witeln digunakan untuk menuliskan teks dengan ganti baris. Berikut diberikan caontoh program Javascript yang diltekkan di file lain dan dipanggil melaluo suatu file HTML. </p>
 
- <b> 4.Komentar </b>
-  <p align = "Justify"> Sama seperti bahasa pemprograman lain. Javascript juga menyediakan fasilitas untuk menuliskan komentar, komentar ini berguna bila nantinya anda atau orang lain membaca program.
-  Pemberian komentar dalam Javascript dapat dilakukan dengan dua cara yatu dengan menulsikan komentar setelah tanda garis miring dua kali, contoh :
+ <p align = "justify"> Berikut diberikan contoh Program Javascript yang diletakkan di file lain dan dipanggil melalui suatu file HTML
+
+ File isi.js
+ document.writenln("<CENTER>");
+ document.writeln("<HR WIDTH = 600 COLOR=Black");
+ document.writeln("<H1>INSTITUT TEKNOLOGI NASIONAL MALANG</H1>");
+ document.writeln("<H2>FAKULTAS TEKNIK INDUSTRI</H2>");
+ dodument.writeln("<H3>JURUSAN TEKNIK INFORMATIKA<H3>");
+ document.writeln("<HR WIDTH = 600 COLOR = Black>");
+ document.writlen("</CENTER>");
+
+ File HTML
+ <HTML>
+   <BODY>
+     <B> Contoh ini menggunakan Javascript yang diambil dari File lain.. </B>
+       <SCRIPT language = "JavaScript" SRC = "isi.js" > </SCRIPT>
+   </BODY>
+ </HTML>
+
+ <h3> Komentar </h3>
+ 
+  <p align = "Justify"> Sama seperti bahasa pemprograman lain. Javascript juga menyediakan fasilitas untuk menuliskan komentar, komentar ini berguna bila nantinya anda atau orang lain membaca program. Pemberian komentar dalam Javascript dapat dilakukan dengan dua cara yatu dengan menulsikan komentar setelah tanda garis miring dua kali, contoh :
   //ini komentar
     atau
     /*ini juga komentar*/
   </p>
 
 <h1> 2. Variabel Java Script </h1>
+
 <br><b> 2.1 Variabel Dalam Javascript</b></br>
 <p align = "justify" > Variabel adalah empat dimana kita menyimpan nilai-nilai atau informasi-informasi pada Javascript. Variabel yang di deklarasikan dapat di isi dengan nilai apa saja. Dalam Javascript pendeklarasikan sebuah variabel sidatnya opsional, artinya anda boleh mendeklarasikan atau tidak hal tersebut tidak menjai masalah. Jika anda memberi nilai pada variabel, maka Javascript dianggap bahwa anda telah mendeklarasikan variabel tersebut.</p>
 Aturan penamaan variabel :
