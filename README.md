@@ -622,6 +622,35 @@ Panjang = Nama,length;//Panjang akan berisi 14
 <img width="572" height="411" alt="image" src="https://github.com/user-attachments/assets/135141f9-8ae9-43e5-9ca3-118c22e7e9ad" />
 
 
+<br><b> 7.1 Objek String </b></br>
+<p align = "justify" > Objek ini digunakan mengakses informasi mengenai dokumen HTML, tampilan output dan memanipulasinya.</p>
+  
+Properti dari objek document meliputi : 
+<img width="486" height="250" alt="image" src="https://github.com/user-attachments/assets/77eb0072-d65e-4ac8-a847-c30466212404" />
+
+Methid dari objek documet meliputi :
+<img width="486" height="118" alt="image" src="https://github.com/user-attachments/assets/77014015-e931-4280-b7b1-c94613bfcb5f" />
+
+Khusus untuk opuput ke browser ada beberapa hal yang perlu diperhatikan :
+<ul>
+<li> Diisi dengan string (") atau (') </li>
+<li> Dapat diberikan tag HTML </li>
+<li> Dapat digunakan untuk menampilkan isi dari variabel </li>
+<li> Terdapat karakter spesial :
+      \b = untuk backspace
+      \f = untuk form feed
+      \n = untuk baris baru
+      \r = untuk carriage return
+      \t = untuk tab
+</li>
+
+
+ 
+<li>Web Browser</li>
+  <p align = "justify">Digunakan untuk menampilkan halaman web yang mengandung kode-kode Java Script. Web browser yang digunakan harus mendukung Java Script. Browser yang dapat digunakan adalah internet explorer dan Netscape.</p>
+</ul>
+
+
 
 
 
