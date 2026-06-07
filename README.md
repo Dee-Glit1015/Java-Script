@@ -622,13 +622,13 @@ Panjang = Nama,length;//Panjang akan berisi 14
 <img width="572" height="411" alt="image" src="https://github.com/user-attachments/assets/135141f9-8ae9-43e5-9ca3-118c22e7e9ad" />
 
 
-<br><b> 7.1 Objek Document </b></br>
+<br><b> 7.2 Objek Document </b></br>
 <p align = "justify" > Objek ini digunakan mengakses informasi mengenai dokumen HTML, tampilan output dan memanipulasinya.</p>
   
 Properti dari objek document meliputi : 
 <img width="486" height="250" alt="image" src="https://github.com/user-attachments/assets/77eb0072-d65e-4ac8-a847-c30466212404" />
 
-Methid dari objek documet meliputi :
+Method dari objek documet meliputi :
 <img width="486" height="118" alt="image" src="https://github.com/user-attachments/assets/77014015-e931-4280-b7b1-c94613bfcb5f" />
 
 Khusus untuk opuput ke browser ada beberapa hal yang perlu diperhatikan :
@@ -649,6 +649,19 @@ Khusus untuk opuput ke browser ada beberapa hal yang perlu diperhatikan :
 
 ==HASIL==
 <img width="1036" height="114" alt="image" src="https://github.com/user-attachments/assets/17c67304-4f18-44b9-bc0b-04d3dd81dca0" />
+
+<br><b> 7.2 Objek Document </b></br>
+<p align = "justify" > Objek window merupakan objek tertinggi dalam objek Javascript. Objek ini digunakan untuk memanipulasi tampilan jendela dari document HTML. </p>
+
+Property pad Objek Window
+<img width="484" height="98" alt="image" src="https://github.com/user-attachments/assets/bd2355e1-a13c-4807-8efc-a0012284e1af" />
+
+Metode-metode untuk Objek window
+<img width="483" height="322" alt="image" src="https://github.com/user-attachments/assets/6210b2a8-7b1d-4e2d-b8f7-74663be4a140" />
+<img width="485" height="64" alt="image" src="https://github.com/user-attachments/assets/8536fb5a-895f-4bb7-b38a-729ccb35d2a6" />
+
+
+
 
 
 
