@@ -309,6 +309,9 @@ Buatlah halaman seperti berikut, yang mencakup semua materi yang terdapat pada m
  </ol>
 </ul>
 
+<img width="1036" height="490" alt="image" src="https://github.com/user-attachments/assets/79361e48-4d16-4828-a73b-9bcba669b0aa" />
+
+
 <h1> 4. PERCABANGAN </h1>
 <br><b> 4.1 Percabangan </b></br>
 <p align = "justify" > Untuk membuat suatu halaman yang dinamis dan interaktif, perancang halaman WEb membutuhkan perintah-perintah yang dapat mengatur aliran dari informasi. Berdasarkan hasil komputasi yang telash dilakukan, Kavascript akan membuat keputusan jalur mana yang akan di eksekusi. Pada dasarnya dalam Javascript terdapat dua macam pernyataan percabangan yaitu if, else dan switch .  </p>
