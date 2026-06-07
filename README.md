@@ -643,12 +643,14 @@ Khusus untuk opuput ke browser ada beberapa hal yang perlu diperhatikan :
       \r = untuk carriage return
       \t = untuk tab
 </li>
-
-
  
-<li>Web Browser</li>
-  <p align = "justify">Digunakan untuk menampilkan halaman web yang mengandung kode-kode Java Script. Web browser yang digunakan harus mendukung Java Script. Browser yang dapat digunakan adalah internet explorer dan Netscape.</p>
-</ul>
+<br> Contoh Program Javascript </br>
+<img width="722" height="329" alt="image" src="https://github.com/user-attachments/assets/13ef07a1-e262-4030-a8f6-8d8ab6728d85" />
+
+==HASIL==
+<img width="1036" height="114" alt="image" src="https://github.com/user-attachments/assets/17c67304-4f18-44b9-bc0b-04d3dd81dca0" />
+
+
 
 
 
