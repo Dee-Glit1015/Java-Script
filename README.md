@@ -504,9 +504,9 @@ Saldo Bulan 3 = Rp 133100
 
 
 
-<h1> 6. PERULANGAN </h1>
+<h1> 6. OBJEK JAVASCRIPT (2) </h1>
 
-<br><b> 6.1 Perulangan Do While </b></br>
+<br><b> 6.1 Objek Array </b></br>
 <p align = "justify" >Array adalah suatu variabel yang dapat memuat beberapa nilai secara berurutan atau seri. Artinya variabel yang di deklarasikan sebagai array isinya tidak satu. Berikut adalah pendeklarasian untuk array.</p>
 
 nama = ne Array (3)
@@ -610,6 +610,11 @@ Panjang = Nama,length;//Panjang akan berisi 14
 
 <p align = "justify"> Length adalah property yang sering digunakan dalam objek string yang digunakan untuk mengetahui banyaknya karakter dalam suatu string. </p>
 <p align = "justify"> Objek String juga memiliki method yang dapat digunakan untuk memanipulasi string tersebut. Adapun Method yang dapat digunakan meliputi : </p>
+
+<img width="484" height="423" alt="image" src="https://github.com/user-attachments/assets/3bfca3fc-a273-4c52-9299-f29928319668" />
+
+<br> Contoh Program Javascript </br>
+
 
 
 
