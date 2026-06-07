@@ -614,6 +614,16 @@ Panjang = Nama,length;//Panjang akan berisi 14
 <img width="484" height="423" alt="image" src="https://github.com/user-attachments/assets/3bfca3fc-a273-4c52-9299-f29928319668" />
 
 <br> Contoh Program Javascript </br>
+<img width="698" height="554" alt="image" src="https://github.com/user-attachments/assets/2a83394e-c9a4-4df9-9554-3e6ce5825e6c" />
+<img width="786" height="440" alt="image" src="https://github.com/user-attachments/assets/7afd7202-b81f-4712-b0a7-08180f96defa" />
+<img width="874" height="345" alt="image" src="https://github.com/user-attachments/assets/d0df2405-0e55-4093-a754-a8a5864a42f1" />
+
+==HASIL==
+<img width="572" height="411" alt="image" src="https://github.com/user-attachments/assets/135141f9-8ae9-43e5-9ca3-118c22e7e9ad" />
+
+
+
+
 
 
 
