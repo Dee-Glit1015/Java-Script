@@ -619,6 +619,7 @@ Panjang = Nama,length;//Panjang akan berisi 14
 <img width="874" height="345" alt="image" src="https://github.com/user-attachments/assets/d0df2405-0e55-4093-a754-a8a5864a42f1" />
 
 ==HASIL==
+
 <img width="572" height="411" alt="image" src="https://github.com/user-attachments/assets/135141f9-8ae9-43e5-9ca3-118c22e7e9ad" />
 
 
