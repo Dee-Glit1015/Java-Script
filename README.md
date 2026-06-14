@@ -623,6 +623,7 @@ Panjang = Nama,length;//Panjang akan berisi 14
 
 
 <br><b> 7.3 Objek Document </b></br>
+
 <p align = "justify" > Objek ini digunakan mengakses informasi mengenai dokumen HTML, tampilan output dan memanipulasinya.</p>
   
 Properti dari objek document meliputi : 
@@ -645,18 +646,22 @@ Khusus untuk opuput ke browser ada beberapa hal yang perlu diperhatikan :
 </li>
  
 <br> Contoh Program Javascript </br>
+
 <img width="722" height="329" alt="image" src="https://github.com/user-attachments/assets/13ef07a1-e262-4030-a8f6-8d8ab6728d85" />
 
 ==HASIL==
+
 <img width="1036" height="114" alt="image" src="https://github.com/user-attachments/assets/17c67304-4f18-44b9-bc0b-04d3dd81dca0" />
 
 <br><b> 7.2 Objek Document </b></br>
 <p align = "justify" > Objek window merupakan objek tertinggi dalam objek Javascript. Objek ini digunakan untuk memanipulasi tampilan jendela dari document HTML. </p>
 
 Property pad Objek Window
+
 <img width="484" height="98" alt="image" src="https://github.com/user-attachments/assets/bd2355e1-a13c-4807-8efc-a0012284e1af" />
 
 Metode-metode untuk Objek window
+
 <img width="483" height="322" alt="image" src="https://github.com/user-attachments/assets/6210b2a8-7b1d-4e2d-b8f7-74663be4a140" />
 <img width="485" height="64" alt="image" src="https://github.com/user-attachments/assets/8536fb5a-895f-4bb7-b38a-729ccb35d2a6" />
 
