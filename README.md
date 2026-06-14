@@ -660,6 +660,14 @@ Metode-metode untuk Objek window
 <img width="483" height="322" alt="image" src="https://github.com/user-attachments/assets/6210b2a8-7b1d-4e2d-b8f7-74663be4a140" />
 <img width="485" height="64" alt="image" src="https://github.com/user-attachments/assets/8536fb5a-895f-4bb7-b38a-729ccb35d2a6" />
 
+<br> Contoh Program Javascript </br>
+<img width="694" height="478" alt="image" src="https://github.com/user-attachments/assets/0b76ea3c-ba2c-4a04-a0e4-0fbc0393e8b5" />
+
+Contoh penggunaan perintah window.open dan windown.location untuk membuka halaman web lain.
+
+==HASIL==
+<img width="584" height="173" alt="image" src="https://github.com/user-attachments/assets/42a46185-8800-4a84-940a-0b21e523db80" />
+
 
 
 
