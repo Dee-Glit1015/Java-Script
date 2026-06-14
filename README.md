@@ -666,7 +666,19 @@ Metode-metode untuk Objek window
 Contoh penggunaan perintah window.open dan windown.location untuk membuka halaman web lain.
 
 ==HASIL==
+
 <img width="584" height="173" alt="image" src="https://github.com/user-attachments/assets/42a46185-8800-4a84-940a-0b21e523db80" />
+
+<br> Contoh Program Javascript </br>
+<img width="696" height="486" alt="image" src="https://github.com/user-attachments/assets/1295df6e-adb9-4203-8db1-04971068ac14" />
+
+==HASIL==
+
+<img width="952" height="130" alt="image" src="https://github.com/user-attachments/assets/07c2d5c6-f50b-44ed-9053-f57156e14c9f" />
+
+
+
+
 
 
 
