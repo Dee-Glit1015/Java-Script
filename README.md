@@ -676,6 +676,17 @@ Contoh penggunaan perintah window.open dan windown.location untuk membuka halama
 
 <img width="952" height="130" alt="image" src="https://github.com/user-attachments/assets/07c2d5c6-f50b-44ed-9053-f57156e14c9f" />
 
+Contoh penggunaan objek window.location.href untuk membuka halaman web yang lain. 
+
+<br> Contoh Program Javascript </br>
+<img width="556" height="553" alt="image" src="https://github.com/user-attachments/assets/743c14ae-5168-47ac-9c51-e4395cb30331" />
+<img width="642" height="444" alt="image" src="https://github.com/user-attachments/assets/79c40a79-1153-4dce-abbb-a1800c957a5f" />
+
+==HASIL==
+
+<img width="1015" height="261" alt="image" src="https://github.com/user-attachments/assets/45babfd5-b1d9-4557-a244-9b39fa222408" />
+
+
 
 
 
