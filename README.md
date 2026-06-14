@@ -622,7 +622,7 @@ Panjang = Nama,length;//Panjang akan berisi 14
 <img width="572" height="411" alt="image" src="https://github.com/user-attachments/assets/135141f9-8ae9-43e5-9ca3-118c22e7e9ad" />
 
 
-<br><b> 7.2 Objek Document </b></br>
+<br><b> 7.3 Objek Document </b></br>
 <p align = "justify" > Objek ini digunakan mengakses informasi mengenai dokumen HTML, tampilan output dan memanipulasinya.</p>
   
 Properti dari objek document meliputi : 
