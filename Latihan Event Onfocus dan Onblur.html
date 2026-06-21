@@ -1,0 +1,68 @@
+<HTML>
+<BODY>
+    <script Languange = "JavaScript">
+        function masukannim()
+        {
+            if (document.f.inim.value=="")
+            {
+                alert("anda belum memasukkan nim");
+            }
+        }
+       function masukkan nama()
+       {
+        if(document.f.inama.value=="")
+        {
+            alert("anda belum memasukkan nama");
+        }
+    }
+    function masukkanalamat()
+    {
+        if(document.f.ialamat.value=="")
+        {
+            alert("anda belum memasukkan alamat");
+        }
+    }
+    function terimakasih()
+    {
+        ((document.f.inim.value!="") && (document.f.inama.value!="") && (document.f.ialamat.value!=""))
+        {
+            alert("terima kasih sudah mengisi formulir");
+        }
+        else
+            alert("Mohon Data Dilengkap");
+    }
+    </script>
+    <h1 align ="center"> Latihan Event OnFocus dan OnBlur </h1>
+    <hr width = "600" color = "black" noshade size = "10">
+    <font face = "arial">
+    <h3 align = "center"> R E G I S T R A S I </h3>
+    <hr width = "600" color = "black" noshade size = "2">
+    <CENTER>
+        <form name = "f" methode = "get" >
+    <TABLE>
+        <tr>
+            <td width = " 31%"> NIM </td>
+            <td width = " 7%">:</td>
+            <td width = " 62%"> <input type = "text" name = "inim" size = "30" onFocus = "window.status = ' Silahkan Mengisi NIM Anda';" 
+            onBlur = "masukannim()"></td>
+        </tr>
+        <tr>
+            <td width = "31%"> NAMA </td>
+            <td width = "7%">:</td>
+            <td width = "62%"> <input type = "text" name = "inama" size = "30" onFocus = "window.status = ' Silahkan Mengisi Nama Anda';"
+            onBlur = "masukkannama()"></td>
+        </tr>
+            <tr>
+            <td width = "31%"> ALAMAT </td>
+            <td width = "7%">:</td>
+            <td width = "62%"> <input type = "text" name = "ialamat" size = "35" onfocus = "window.status = ' Silahkan Mengisi Alamat Anda';" 
+            onblur = "masukkanalamat()"> </td>
+        </tr>
+    </TABLE>
+    <hr widtth = "600" color = "black" noshade size = "2">
+    <p><input type = "button" value = "Kirim" onClick = "terimakasih()">
+    <input type = "reset" value = "Batal"></p>
+    </form>
+    </center>
+    </body>
+</html>
