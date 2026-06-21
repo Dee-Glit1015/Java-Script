@@ -692,7 +692,7 @@ Contoh penggunaan objek window.location.href untuk membuka halaman web yang lain
 
 <img width="1015" height="261" alt="image" src="https://github.com/user-attachments/assets/45babfd5-b1d9-4557-a244-9b39fa222408" />
 
-<h1> 8. Kejadian (Event) - 1 (3) </h1>
+<h1> 8. Kejadian (Event) - 1 </h1>
 
 <br><b> 8.1 Kejadian (event) </b></br>
 <p align = "justify" > Even adalah sesuatu yang terjadi pada halaman HTML. BErikut ini terdapat beberapa bentuk kejadian yaitu jika pengguna dokumen, pengguna memasukkan data, pengguna mengklik tombol dan sebagainya. Hal-hal tersebut diatur oleh even. Semua kejadian pada javascript dapa anda tanganu dengan menentukan kejadiannya. Biasanya kejadian (even) adalah sebuah fungsi, tetapi pada beberapa kasus, kita dapat menuliskan pernyataan - pernyataan secara langsung. </p>
@@ -700,8 +700,17 @@ Berikut ini adalah daftar kejadian (even) pada JavaScript :
 
 <img width="389" height="469" alt="image" src="https://github.com/user-attachments/assets/c4753497-0c3a-46c0-9a8c-beaedf63f0ff" />
 
+<br><b> 8.2 Penggunaan Kejadian (event) </b></br>
 
-  
+<p align = "justify" > Berikut ini akan diberikan beberapa contoh program-program yang menggunakan kejadian - kejadian dalam aplikasinya. Contoh program yang menggunakan even OnClick : </p>
+
+<br> Contoh Program Javascript </br>
+<img width="851" height="555" alt="image" src="https://github.com/user-attachments/assets/7ef52ad8-9d13-448e-b34d-6fbe855024da" />
+<img width="920" height="186" alt="image" src="https://github.com/user-attachments/assets/a3e79ad4-bda9-42b1-aad6-544cc8b0f330" />
+
+== HASIL ==
+
+<img width="1366" height="454" alt="image" src="https://github.com/user-attachments/assets/2f71eadc-9e8e-4b86-89e4-d485df903bdf" />
 
 
 
