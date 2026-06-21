@@ -712,6 +712,21 @@ Berikut ini adalah daftar kejadian (even) pada JavaScript :
 
 <img width="1366" height="454" alt="image" src="https://github.com/user-attachments/assets/2f71eadc-9e8e-4b86-89e4-d485df903bdf" />
 
+Contoh program yang menggunakan even OnBlur dan onFocus : 
+<br> Contoh Program Javascript </br>
+
+<img width="989" height="560" alt="image" src="https://github.com/user-attachments/assets/b13f222e-7b66-44cb-980d-f3ddc2ef5364" />
+<img width="1136" height="466" alt="image" src="https://github.com/user-attachments/assets/21dc47a8-ae09-48f6-9e77-facd626097b7" />
+<img width="1149" height="410" alt="image" src="https://github.com/user-attachments/assets/6d4ad960-3a1e-442e-a709-d7e0e6afb1a3" />
+
+== HASIL ==
+
+<img width="1360" height="321" alt="image" src="https://github.com/user-attachments/assets/b1336017-657d-43ee-83e4-fdcd75e3ae0d" />
+
+
+
+
+
 
 
 
