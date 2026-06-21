@@ -705,8 +705,8 @@ Berikut ini adalah daftar kejadian (even) pada JavaScript :
 <p align = "justify" > Berikut ini akan diberikan beberapa contoh program-program yang menggunakan kejadian - kejadian dalam aplikasinya. Contoh program yang menggunakan even OnClick : </p>
 
 <br> Contoh Program Javascript </br>
-<img width="851" height="555" alt="image" src="https://github.com/user-attachments/assets/7ef52ad8-9d13-448e-b34d-6fbe855024da" />
-<img width="920" height="186" alt="image" src="https://github.com/user-attachments/assets/a3e79ad4-bda9-42b1-aad6-544cc8b0f330" />
+<img width="1134" height="554" alt="image" src="https://github.com/user-attachments/assets/470c9bac-f885-48ef-bc4c-9c452860e36b" />
+<img width="938" height="137" alt="image" src="https://github.com/user-attachments/assets/471bcfba-8ea0-4683-a5b7-ef9c97e5cd6e" />
 
 == HASIL ==
 
