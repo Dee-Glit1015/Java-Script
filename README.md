@@ -732,6 +732,10 @@ Contoh program yang menggunakan even OnBlur dan onFocus :
 <img width="1125" height="247" alt="image" src="https://github.com/user-attachments/assets/a517466c-00b6-438c-93a5-c57fccabb889" />
 
 
+<br> Contoh Program Javascript </br>
+Contoh program yang menggunakan even onMouseOut dan onMouseOver
+
+
 
 
 
