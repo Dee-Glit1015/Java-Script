@@ -1,0 +1,47 @@
+<HTML>
+  <BODY Onload = "tanggal()" Onunload = "tutup ()">
+    <SCRIPT LANGUAGE = "JavaScript">
+        function tanggal()
+        {
+          var d = new Date();
+          var y = d.getFUllYear();
+          var m = d.getMonth() + 1;
+          var d = d.getDate();
+          var t = d + '/' + m + '/' + y + ' ' ;
+          defaultStatus = "Anda data pada tanggal " + t + ".";
+          alert("Selamat Datang Teman \n Silahkan Masuk Ke Websiteku");
+
+        }
+        function timer()
+        {
+          var d = new Date();
+          var jam = d.getHours();
+          var menit = d.getMinutes() + 1;
+          var detik = d.getSeconds();
+          var strwaktu = (jam<10)?"0" + jam : jam;
+          strwaktu += (menit<10)?":0" + menit : ":" + menit;
+          strwaktu += (detik<10)?":0" + detik : ":" + detik;
+          document.f.txtwaktu.value= "Sekarang jam " + strwaktu + ".";
+          setTimeout("timer()",200);
+        }
+        function tutup()
+        {
+          window.alert("Terima Kasih Telah Berkunjung\n Jangan lupa Datang kembali ya! ");
+
+        }
+        // end hiding
+        </script>
+        <h1 align = "center">Latihan Event OnLoad dan OnUnload</h1>
+        <hr width = "600" color = "black" noshade size = "10">
+        <font face = "arial">
+          <h3 align = "center">Selamat Datang di Websiteku</h3>
+          <CENTER>
+            <form name = "f">
+              <h4 align = "center">Jam Sekarang</h4>          
+              <input type = "text" name = "txtwaktu" size = "30"  >
+              <hr width = "600" color = "black" noshade size = "10">
+            </form>
+            <script LANGUAGE = "JavaScript"> timer (); </script>
+          </CENTER>
+          </body>
+          </HTML>
