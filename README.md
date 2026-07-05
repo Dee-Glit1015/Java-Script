@@ -723,6 +723,17 @@ Contoh program yang menggunakan even OnBlur dan onFocus :
 
 <img width="1360" height="321" alt="image" src="https://github.com/user-attachments/assets/b1336017-657d-43ee-83e4-fdcd75e3ae0d" />
 
+<br> Contoh Program Javascript </br>
+<img width="881" height="560" alt="image" src="https://github.com/user-attachments/assets/46626975-1f98-4602-b133-87754dae0515" />
+<img width="1015" height="424" alt="image" src="https://github.com/user-attachments/assets/af768f47-170f-495a-83ff-63ec49ca8cc0" />
+
+==HASIL==
+
+<img width="1125" height="247" alt="image" src="https://github.com/user-attachments/assets/a517466c-00b6-438c-93a5-c57fccabb889" />
+
+
+
+
 
 
 
