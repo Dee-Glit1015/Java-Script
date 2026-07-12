@@ -742,6 +742,21 @@ Contoh program yang menggunakan even onMouseOut dan onMouseOver
 
 <img width="1365" height="418" alt="image" src="https://github.com/user-attachments/assets/7ddfe9d3-ceb2-4e50-962a-134e86902c67" />
 
+<h1> 9. Kejadian (Event) - 2 </h1>
+
+<br><b> 9.1 Event On Submit </b></br>
+
+<p align = "justify" > Eveny On Submit akan di bangkitkan apabila seorang user menekan tombol submit . Dengan event ini ada yang di inputkan akan di kirimkan tempat lain (email, file teks kedalam suatu tabel). </p>
+
+<img width="1021" height="542" alt="image" src="https://github.com/user-attachments/assets/847a57d7-0131-4c9f-9958-efe7f39791e1" />
+
+<img width="1143" height="180" alt="image" src="https://github.com/user-attachments/assets/6cfe553d-da49-4932-9e3f-87cff87f3b20" />
+
+== HASIL==
+
+<img width="553" height="126" alt="image" src="https://github.com/user-attachments/assets/7e6593cb-dd3d-4efb-880d-00a09829bafd" />
+
+
 
 
 
