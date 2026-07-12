@@ -756,6 +756,19 @@ Contoh program yang menggunakan even onMouseOut dan onMouseOver
 
 <img width="553" height="126" alt="image" src="https://github.com/user-attachments/assets/7e6593cb-dd3d-4efb-880d-00a09829bafd" />
 
+<br> Contoh Program Javascript </br>
+
+Berikut diberikan contoh event submit yang terjadi pada form pengisian data guestbook yang hasilnya akan dikirim ke suatu email. 
+
+<img width="912" height="535" alt="image" src="https://github.com/user-attachments/assets/74db44d0-452c-4168-89da-488a1496b086" />
+<img width="1015" height="456" alt="image" src="https://github.com/user-attachments/assets/045daff3-c2ba-4ecf-abfc-5d8619802298" />
+<img width="1024" height="460" alt="image" src="https://github.com/user-attachments/assets/6e07abcb-e1bf-486d-8acd-df36f70364be" />
+<img width="1018" height="436" alt="image" src="https://github.com/user-attachments/assets/1a94abaf-7b09-49ba-98c6-2d94bd7eb5d6" />
+
+== HASIL ==
+<img width="392" height="255" alt="image" src="https://github.com/user-attachments/assets/70736e22-07ee-4817-9d88-1b4122665f2a" />
+
+
 
 
 
