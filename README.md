@@ -777,6 +777,20 @@ Berikut diberikan contoh event submit yang terjadi pada form pengisian data gues
 artinya membuat objek image dengan isinya adalah image pic1.gif berikut akan diberikan contoh mengenai objek image :</p>
 
 
+<br> Contoh Program Javascript </br>
+
+<img width="776" height="536" alt="image" src="https://github.com/user-attachments/assets/998874b0-c87b-4456-886d-cbef2e29e1a3" />
+<img width="979" height="115" alt="image" src="https://github.com/user-attachments/assets/e6de11df-71f1-4183-a349-f58c4e082f51" />
+
+== HASIL==
+
+<img width="259" height="267" alt="image" src="https://github.com/user-attachments/assets/7e753c15-1820-4612-ad91-34384c96f53f" />
+
+
+
+
+
+
 
 
 
