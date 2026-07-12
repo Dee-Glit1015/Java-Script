@@ -1,0 +1,31 @@
+<html>
+    <body>
+        <script language="javascript">
+            function cari ()
+            {
+                var kata = document.formcari.keyword.value;
+                var hasil = "http://www.google.com/search?q=" + kata ;
+                window.open(hasil, 'google', config='height=500,width=750,scrollbars=yes,location=yes')
+            }
+        </script>
+        <form name="formcari" onsubmit="cari()">
+            <center>
+                <table>
+                    <tr>
+                        <td colspan="4" bgcolor="green"><h1 align="center">Search Engine</h1>
+                            <hr color="black" size="4" ></td>
+                    </tr>
+                    <tr>
+                        <td><b>Cari Pakai </b></td>
+                        <td><img src="logoogle.gif"></td>
+                        <td><input name = "keyword" SIZE = "40" type="text"></td>
+                        <td><input type="submit" value="Cari... !!"><input type="reset" value="Ulang"></td>
+                </tr>
+                    <tr>
+                        <td colspan="4" bcolor = "orange"><hr color="black" size="4"></td>
+                    </tr>
+                </table>
+            </center>
+        </form>
+    </body>
+</html>
