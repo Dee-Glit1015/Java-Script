@@ -766,11 +766,15 @@ Berikut diberikan contoh event submit yang terjadi pada form pengisian data gues
 <img width="1018" height="436" alt="image" src="https://github.com/user-attachments/assets/1a94abaf-7b09-49ba-98c6-2d94bd7eb5d6" />
 
 == HASIL ==
+
 <img width="392" height="255" alt="image" src="https://github.com/user-attachments/assets/70736e22-07ee-4817-9d88-1b4122665f2a" />
 
+<br><b> 9.2 Manipulasi Gambar </b></br>
 
-
-
+<p align = "justify" > Untuk memuat suatu image, pada javascript terdapat objek Image. Untuk membuat objek terserbut pendeklarasiannya adalah sebagai berikut : 
+            img1 = new Image ()
+            img1.src = "pic1.gif".
+artinya membuat objek image dengan isinya adalah image pic1.gif berikut akan diberikan contoh mengenai objek image :</p>
 
 
 
