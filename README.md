@@ -799,13 +799,42 @@ artinya membuat objek image dengan isinya adalah image pic1.gif berikut akan dib
 
 <br><b> 10.1 Membuat Marquee </b></br>
 
-<p align = "justify" > Marquee berarti teks yang dapat berjalan pada halaman website. Terdapat 2 macamjenis marquee yaitu marquee pada halaman web dan marquee pada status bar. Berikut ini adalah contoh program marquee dengan menggunakan JavaScrip . </p>
+<p align = "justify" > Marquee berarti teks yang dapat berjalan pada halaman website. Terdapat 2 macamjenis marquee yaitu marquee pada halaman web dan marquee pada status bar. Berikut ini adalah contoh program marquee dengan menggunakan JavaScript . </p>
 
 <img width="1017" height="458" alt="image" src="https://github.com/user-attachments/assets/6efe755b-8e02-46f2-ad31-559fadf87adc" />
 
 ==HASIL==
 
 <img width="1365" height="154" alt="image" src="https://github.com/user-attachments/assets/2096840c-8f62-469f-9f1f-949a9234bdbe" />
+
+<br><b> 10.2 Membuat Frame </b></br>
+
+<p align = "justify" > Grame digunakan untuk memisahkan beberapa halaman web yang ditampilkan dalam suatu halaman web. Penggunaan frame biasa diperuntukkan untuk membuat halaman yang selalu diakses misak halaman menu. Berikut adalah contoh program yang menggunakan frame . </p>
+
+<br> Contoh Program Javascript </br>
+
+<h3> HALAMAN UTAMA </h3>
+
+<img width="912" height="176" alt="image" src="https://github.com/user-attachments/assets/a84015b0-84b8-42aa-a5a7-d40c3aa1e6fa" />
+
+== HASIL == 
+<img width="477" height="241" alt="image" src="https://github.com/user-attachments/assets/df606949-c222-4a46-bb16-37848922c5b6" />
+
+<h3> HALAMAN MENU </h3>
+
+<img width="994" height="500" alt="image" src="https://github.com/user-attachments/assets/9c293b4c-dde7-48f7-92aa-74653781eb77" />
+
+== HASIL ==
+
+<img width="570" height="230" alt="image" src="https://github.com/user-attachments/assets/a37498fc-8680-4d72-8351-41207af1ecdb" />
+
+<h3> HALAMAN MENU </h3>
+
+<img width="918" height="237" alt="image" src="https://github.com/user-attachments/assets/8f247af3-35d5-4240-979d-fa38a57a2a7e" />
+
+== HASIL ==
+
+<img width="1270" height="199" alt="image" src="https://github.com/user-attachments/assets/f48fda44-67d0-4f28-8cde-a7375a0c62cd" />
 
 
 
