@@ -795,7 +795,17 @@ artinya membuat objek image dengan isinya adalah image pic1.gif berikut akan dib
 
 <img width="1366" height="194" alt="image" src="https://github.com/user-attachments/assets/32365b7b-cca8-4ba4-b58a-1cdeb0192ede" />
 
+<h1> 10. Marquee dan Frame </h1>
 
+<br><b> 10.1 Membuat Marquee </b></br>
+
+<p align = "justify" > Marquee berarti teks yang dapat berjalan pada halaman website. Terdapat 2 macamjenis marquee yaitu marquee pada halaman web dan marquee pada status bar. Berikut ini adalah contoh program marquee dengan menggunakan JavaScrip . </p>
+
+<img width="1017" height="458" alt="image" src="https://github.com/user-attachments/assets/6efe755b-8e02-46f2-ad31-559fadf87adc" />
+
+==HASIL==
+
+<img width="1365" height="154" alt="image" src="https://github.com/user-attachments/assets/2096840c-8f62-469f-9f1f-949a9234bdbe" />
 
 
 
