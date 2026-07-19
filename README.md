@@ -818,6 +818,7 @@ artinya membuat objek image dengan isinya adalah image pic1.gif berikut akan dib
 <img width="912" height="176" alt="image" src="https://github.com/user-attachments/assets/a84015b0-84b8-42aa-a5a7-d40c3aa1e6fa" />
 
 == HASIL == 
+
 <img width="477" height="241" alt="image" src="https://github.com/user-attachments/assets/df606949-c222-4a46-bb16-37848922c5b6" />
 
 <h3> HALAMAN MENU </h3>
