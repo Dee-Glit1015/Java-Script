@@ -828,7 +828,7 @@ artinya membuat objek image dengan isinya adalah image pic1.gif berikut akan dib
 
 <img width="570" height="230" alt="image" src="https://github.com/user-attachments/assets/a37498fc-8680-4d72-8351-41207af1ecdb" />
 
-<h3> HALAMAN MENU </h3>
+<h3> HALAMAN AWAL </h3>
 
 <img width="918" height="237" alt="image" src="https://github.com/user-attachments/assets/8f247af3-35d5-4240-979d-fa38a57a2a7e" />
 
@@ -836,112 +836,8 @@ artinya membuat objek image dengan isinya adalah image pic1.gif berikut akan dib
 
 <img width="1270" height="199" alt="image" src="https://github.com/user-attachments/assets/f48fda44-67d0-4f28-8cde-a7375a0c62cd" />
 
+         
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-
- 
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-              
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
-
-
-
-
-
-
-
-
-  
 
   </body>
   
