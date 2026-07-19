@@ -902,19 +902,6 @@ artinya membuat objek image dengan isinya adalah image pic1.gif berikut akan dib
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
   
 
   </body>
