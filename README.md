@@ -786,6 +786,18 @@ artinya membuat objek image dengan isinya adalah image pic1.gif berikut akan dib
 
 <img width="259" height="267" alt="image" src="https://github.com/user-attachments/assets/7e753c15-1820-4612-ad91-34384c96f53f" />
 
+<br> Contoh Program Javascript </br>
+
+<img width="1143" height="531" alt="image" src="https://github.com/user-attachments/assets/fbf80b48-1118-4a63-86fe-d2b0a82f6307" />
+<img width="1139" height="178" alt="image" src="https://github.com/user-attachments/assets/3287e0d1-9550-4564-ad84-d4403df97cf6" />
+
+== HASIL==
+
+<img width="1366" height="194" alt="image" src="https://github.com/user-attachments/assets/32365b7b-cca8-4ba4-b58a-1cdeb0192ede" />
+
+
+
+
 
 
 
