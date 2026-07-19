@@ -1,0 +1,34 @@
+<HTML>
+    <BODY>
+    <SCRIPT LANGUAGE="JavaScript">
+    var num=1
+img1 = new Image ()
+img1.src = "LOGO_ITN.png"
+img2 = new Image ()
+img2.src = "pic2.gif"
+img3 = new Image ()
+img3.src = "pic3.gif"
+img4 = new Image ()
+img4.src = "pic4.gif"
+img5 = new Image ()
+img5.src = "pic5.gif"
+img6 = new Image ()
+img6.src = "pic6.gif"
+function slideshow(x)
+{
+num=num+x
+if (num==7) 
+    {num=1}
+if (num==0)
+{num=6}
+document.mypic.src=eval("img"+num+".src")
+}
+</SCRIPT>
+<CENTER>
+<IMG SRC="pic1.gif" NAME="mypic" BORDER=0 height="200"
+width="150"><p>
+<A HREF="JavaScript:slideshow(-1)">Previous</A>
+<A HREF="JavaScript:slideshow(1)">Next</A>
+</CENTER>
+</BODY>
+</HTML> 
